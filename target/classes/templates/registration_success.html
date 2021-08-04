@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+    <head>
+        <meta>
+        <title> Registration Successful - UGASTATS</title>
+        <link rel="stylesheet" type="text/css" href="/webjars/bootstrap/css/bootstrap.min.css" />
+        <style>
+            body {
+                background-color: #dbdddd;    
+            }
+            .nav-item{
+                font-size: 1.5rem;
+                font-weight: bold;
+            }
+            .navbar{
+                box-shadow: 0px 10px 5px grey;
+            }
+            a{
+                color: #BA0C2F;
+            }
+            a:hover{
+                color: #BA0C2F;
+            }
+            .container{
+                padding: 2%;
+            }
+            .photo{
+                width: 100%;
+                border: 5px solid #BA0C2F;
+                box-shadow: 10px 10px 5px grey;
+            }
+            .fade-in{
+                animation: fadeIn 2s;
+            }
+            @keyframes fadeIn {
+                from{
+                    opacity: 0;
+                }
+                to{
+                    opacity: 1;
+                }
+            }
+            #link {
+                color: white;
+            }
+            #link:hover{
+                color: black;
+            }
+        </style>
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg navbar-light bg-light" style="background: linear-gradient(45deg, rgba(228,0,43,1) 0%, rgb(179 13 13) 50%, rgb(164 10 10) 100%);">
+            <a class="navbar-brand" th:href="@{/}"><img th:src="@{images/logo.jpeg}" width="75" height="75" alt=""></a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+              <ul class="navbar-nav mr-auto">
+                <li class="nav-item">
+                  <a id= "link" class="nav-link" th:href="@{/coaches}">Coaches</a>
+                </li>
+                <li class="nav-item">
+                  <a id= "link" class="nav-link" th:href="@{/teams}">Teams</a>
+                </li>
+                <li class="nav-item">
+                    <a id= "link" class="nav-link" th:href="@{/players}">Players</a>
+                </li>
+                <li class="nav-item">
+                    <a id= "link" class="nav-link" th:href="@{/about}">About</a>
+                </li>
+                <li class="nav-item">
+                    <a id= "link" class="nav-link" th:href="@{/registration}">Register</a>
+                </li>
+                <li class="nav-item">
+                    <a id= "link" class="nav-link" th:href="@{/login}">Login</a>
+                </li>
+              </ul>
+            </div>
+        </nav>
+        <div class="container text-center">
+            <h1>Thanks for registering with us!</h1>
+            <h3><a th:href="@{/login}">Click here to login and start viewing your favorite players, coaches, and teams.</a></h3>
+            <br><br>
+            <img class="fade-in photo" th:src="@{images/stadium.jpg}">
+            <br><br>
+            <p class="fade-in">UGA vs Notre Dame, 2019</p>
+        </div>
+    </body>
+</html>

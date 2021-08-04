@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+    <head>
+        <meta>
+        <title> About - UGASTATS</title>
+        <link rel="stylesheet" type="text/css" href="/webjars/bootstrap/css/bootstrap.min.css" />
+        <style>
+            body {
+                background-color: #dbdddd;    
+            }
+            .nav-item{
+                font-size: 1.5rem;
+                font-weight: bold;
+            }
+            .navbar{
+                box-shadow: 0px 10px 5px grey;
+            }
+            .table-dark td, .table-dark th, .table-dark thead th {
+                border-color: #585858;
+                background-color: #212529;
+            }
+            .container{
+                padding: 2%;
+            }
+            #link {
+                color: white;
+            }
+            #link:hover{
+                color: black;
+            }
+            .photo{
+                width: 100%;
+                border: 5px solid #BA0C2F;
+                box-shadow: 10px 10px 5px grey;
+                margin-bottom: 1%;
+            }
+        </style>
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg navbar-light bg-light" style="background: linear-gradient(45deg, rgba(228,0,43,1) 0%, rgb(179 13 13) 50%, rgb(164 10 10) 100%);">
+            <a class="navbar-brand" th:href="@{/}"><img th:src="@{images/logo.jpeg}" width="75" height="75" alt=""></a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+              <ul class="navbar-nav mr-auto">
+                <li class="nav-item">
+                  <a id= "link" class="nav-link" th:href="@{/coaches}">Coaches</a>
+                </li>
+                <li class="nav-item">
+                  <a id= "link" class="nav-link" th:href="@{/teams}">Teams</a>
+                </li>
+                <li class="nav-item">
+                    <a id= "link" class="nav-link" th:href="@{/players}">Players</a>
+                </li>
+                <li class="nav-item">
+                    <a id= "link" class="nav-link" th:href="@{/about}">About</a>
+                </li>
+                <li class="nav-item">
+                    <a id= "link" class="nav-link" th:href="@{/registration}">Register</a>
+                </li>
+                <li class="nav-item">
+                    <a id= "link" class="nav-link" th:href="@{/login}">Login</a>
+                </li>
+              </ul>
+            </div>
+        </nav>   
+        <div class="container text-center">
+            <h1>About</h1>
+            <h5>UGAStats was started by Techzilla, whose members are Logan Scheid, Ja'Von Holmes, and Isaiah McCoy. 
+                It was completed as a term project for CSCI4370 at UGA, and as a site for fans of UGA football like us.</h5>
+            <br>
+            <h6>After creating an account you are able to access our statistic pages for coaches, teams, and players. Each of these pages has tables with simple easy to understand layouts.</h6>
+            <br><br>
+            <p>Most column headers give descriptions of a given stat if you hover over them. Obviously headers like first name and last name are self explanatory and do not provide this:</p>
+            <img class="photo" th:src="@{images/about_hover.png}">
+            <p>You can also click on these column headers to sort by that column in ascending or descending order:</p>
+            <img class="photo" th:src="@{images/about_sort.png}">
+            <p>You can search for any specific keyword or number to find something specific you're looking for:</p>
+            <img class="photo" th:src="@{images/about_search.png}">
+            <p>You can also change the number of results you wish to display:</p>
+            <img class="photo" th:src="@{images/about_results.png}">
+        </div>   
+    </body>
+</html>

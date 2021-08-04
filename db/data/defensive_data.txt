@@ -1,0 +1,1066 @@
+===================================================================================================================================
+2020
+Rk,Player,Solo,Ast,Tot,Loss,Sk,Int,Yds,Avg,TD,PD,FR,Yds,TD,FF
+1,Nakobe Dean\nakobe-dean-1,26,23,49,1.5,1.5,,,,,,,,,
+2,Monty Rice\monty-rice-2,22,13,35,3.0,1.0,,,,,1,1,,1,2
+3,Lewis Cine\lewis-cine-1,19,12,31,1.0,0.0,,,,,1,,,,
+4,Richard Lecounte III\richard-lecounte-iii-1,16,10,26,1.0,0.0,3,38,12.7,0,4,1,,,0
+5,Quay Walker\quay-walker-1,12,13,25,0.0,0.0,,,,,,,,,
+6,Azeez Ojulari\azeez-ojulari-1,14,8,22,6.5,4.5,,,,,2,1,,,2
+7,Tyrique Stevenson\tyrique-stevenson-1,13,7,20,0.0,0.0,,,,,2,,,,
+8,Devonte Wyatt\devonte-wyatt-1,7,13,20,0.0,0.0,,,,,,,,,
+9,Tyson Campbell\tyson-campbell-1,11,5,16,1.0,0.0,,,,,4,,,,
+10,Nolan Smith\nolan-smith-1,6,10,16,1.5,1.5,,,,,,,,,
+11,Eric Stokes\eric-stokes-2,9,4,13,0.0,0.0,3,67,22.3,2,4,,,,
+12,Malik Herring\malik-herring-1,7,6,13,1.5,1.0,,,,,2,,,,
+13,Jordan Davis\jordan-davis-3,3,9,12,0.0,0.0,,,,,,,,,
+14,Jaylen Johnson\jaylen-johnson-3,9,3,12,3.0,3.0,,,,,1,,,,
+15,Christopher Smith\christopher-smith-1,6,6,12,0.0,0.0,,,,,,,,,
+16,Mark Webb\mark-webb-1,7,4,11,0.0,0.0,1,13,13.0,0,2,,,,
+17,Travon Walker\travon-walker-1,4,5,9,2.0,1.0,,,,,,,,,1
+18,Channing Tindall\channing-tindall-1,5,3,8,2.0,2.0,,,,,,,,,
+19,Adam Anderson\adam-anderson-2,5,2,7,2.5,2.5,,,,,,,,,
+20,Jalen Carter\jalen-carter-1,4,2,6,1.0,0.0,,,,,,,,,
+21,Julian Rochester\julian-rochester-1,1,5,6,0.0,0.0,,,,,,,,,
+22,Major Burns\major-burns-1,2,2,4,0.0,0.0,,,,,,,,,
+23,Warren McClendon\warren-mcclendon-1,4,0,4,0.0,0.0,,,,,,,,,
+24,DJ Daniel\dj-daniel-2,3,0,3,0.0,0.0,,,,,1,,,,
+25,Kolby Wyatt\kolby-wyatt-1,3,0,3,0.0,0.0,,,,,,,,,
+26,Latavious Brini\latavious-brini-1,1,1,2,0.0,0.0,,,,,,,,,
+27,Warren Brinson\warren-brinson-1,0,2,2,0.0,0.0,,,,,,,,,
+28,Prather Hudson\prather-hudson-1,1,1,2,0.0,0.0,,,,,,,,,
+29,Jalen Kimber\jalen-kimber-1,2,0,2,0.0,0.0,,,,,,,,,
+30,Nate McBridge\nate-mcbridge-1,0,2,2,0.0,0.0,,,,,,,,,
+31,Marcus Rosemy\marcus-rosemy-1,2,0,2,0.0,0.0,,,,,,,,,
+32,Stetson Bennett\stetson-bennett-1,1,0,1,0.0,0.0,,,,,,,,,
+33,Jake Camarda\jake-camarda-1,1,0,1,0.0,0.0,,,,,,,,,
+34,Zion Logue\zion-logue-1,0,1,1,0.0,0.0,,,,,,,,,
+35,Tymon Mitchell\tymon-mitchell-1,0,1,1,0.0,0.0,,,,,,,,,
+36,Bill Norton\bill-norton-2,0,1,1,0.5,0.0,,,,,,,,,
+37,MJ Sherman\mj-sherman-1,1,0,1,0.0,0.0,,,,,,,,,
+38,Ameer Sped\ameer-sped-1,1,0,1,0.0,0.0,,,,,,,,,
+39,Nazir Stackhouse\nazir-stackhouse-1,0,1,1,0.0,0.0,,,,,,,,,
+40,Tramel Walthour\tramel-walthour-1,1,0,1,0.0,0.0,,,,,,,,,
+===================================================================================================================================
+2019
+Rk,Player,Solo,Ast,Tot,Loss,Sk,Int,Yds,Avg,TD,PD,FR,Yds,TD,FF
+1,Monty Rice\monty-rice-2,50,39,89,3.0,0.0,,,,,3,,,,
+2,Tae Crowder\tae-crowder-1,29,33,62,4.0,0.0,,,,,4,1,,1,0
+3,Richard Lecounte III\richard-lecounte-iii-1,35,26,61,4.5,0.0,4,76,19.0,0,3,3,,,2
+4,J.R. Reed\jr-reed-3,29,25,54,2.0,0.5,1,0,0.0,0,7,1,,1,1
+5,DJ Daniel\dj-daniel-2,36,6,42,2.0,0.0,,,,,8,,,,
+6,Eric Stokes\eric-stokes-2,30,8,38,1.0,1.0,,,,,9,,,,1
+7,Mark Webb\mark-webb-1,25,13,38,3.0,0.0,,,,,3,,,,1
+8,Azeez Ojulari\azeez-ojulari-1,14,19,33,5.0,5.5,,,,,,,,,1
+9,Devonte Wyatt\devonte-wyatt-1,11,19,30,1.5,1.0,,,,,,1,,,0
+10,Tyler Clark\tyler-clark-3,11,15,26,8.0,2.5,,,,,,,,,
+11,Nakobe Dean\nakobe-dean-1,14,11,25,1.5,0.0,,,,,2,,,,1
+12,Divaad Wilson\divaad-wilson-1,18,6,24,0.0,0.0,1,11,11.0,0,1,,,,
+13,Michael Barnett\michael-barnett-1,5,18,23,0.5,0.0,,,,,1,,,,
+14,Quay Walker\quay-walker-1,12,11,23,3.5,2.5,,,,,,,,,
+15,Malik Herring\malik-herring-1,14,8,22,3.5,0.5,,,,,2,,,,
+16,Jermaine Johnson\jermaine-johnson-3,9,11,20,2.0,1.5,,,,,1,,,,1
+17,Lewis Cine\lewis-cine-1,14,5,19,0.5,0.0,1,15,15.0,0,2,,,,
+18,Nolan Smith\nolan-smith-1,10,8,18,2.5,2.5,,,,,1,,,,
+19,Jordan Davis\jordan-davis-3,7,10,17,4.0,2.5,,,,,,,,,
+20,Tyson Campbell\tyson-campbell-1,9,6,15,0.5,1.0,,,,,4,1,,1,0
+21,Travon Walker\travon-walker-1,9,6,15,3.5,2.5,,,,,1,,,,
+22,David Marshall\david-marshall-1,4,9,13,1.5,0.0,,,,,,,,,
+23,Tyrique Stevenson\tyrique-stevenson-1,9,4,13,1.0,1.0,,,,,5,,,,
+24,Nate McBridge\nate-mcbridge-1,5,5,10,1.0,0.0,,,,,2,,,,
+25,Channing Tindall\channing-tindall-1,4,5,9,1.5,1.5,,,,,,,,,
+26,Clay Webb\clay-webb-1,6,2,8,0.0,0.0,,,,,,,,,1
+27,Robert Beal\robert-beal-1,1,7,8,0.5,0.0,,,,,,,,,
+28,Julian Rochester\julian-rochester-1,3,5,8,1.5,0.0,,,,,,,,,
+29,Walter Grant\walter-grant-4,5,2,7,2.0,1.0,,,,,,,,,
+30,Christopher Smith\christopher-smith-1,2,5,7,0.0,0.0,,,,,,,,,
+31,Adam Anderson\adam-anderson-2,5,1,6,2.0,2.0,,,,,,,,,
+32,Justin Young\justin-young-2,3,3,6,1.0,0.0,,,,,1,,,,
+33,Trezmen Marshall\trezmen-marshall-1,3,2,5,0.0,0.0,,,,,,,,,
+34,Ameer Sped\ameer-sped-1,5,0,5,0.0,0.0,,,,,,,,,
+35,Prather Hudson\prather-hudson-1,4,0,4,0.0,0.0,,,,,,,,,
+36,Netori Johnson\netori-johnson-1,3,1,4,2.0,1.0,,,,,,,,,
+37,Tymon Mitchell\tymon-mitchell-1,1,3,4,0.0,0.0,,,,,,,,,
+38,Bill Norton\bill-norton-2,2,2,4,1.0,0.0,,,,,,,,,
+39,Brian Herrien\brian-herrien-1,1,2,3,1.0,0.0,,,,,,,,,
+40,William Poole\william-poole-1,2,1,3,0.0,0.0,,,,,,,,,
+41,Otis Reese\otis-reese-1,2,1,3,0.0,0.0,,,,,,,,,
+42,Michail Carter\michail-carter-1,1,1,2,0.0,0.0,,,,,,,,,
+43,Tyrique McGhee\tyrique-mcghee-1,0,2,2,0.0,0.0,,,,,1,,,,
+44,Aaron Olalude\aaron-olalude-1,1,1,2,0.0,0.0,,,,,,,,,
+45,Tyler Simmons\tyler-simmons-2,1,1,2,0.0,0.0,,,,,,,,,
+46,Charlie Woerner\charlie-woerner-1,2,0,2,0.0,0.0,,,,,,,,,
+47,Rodrigo Blankenship\rodrigo-blankenship-1,1,0,1,0.0,0.0,,,,,,,,,
+48,Hugh Nelson\hugh-nelson-1,1,0,1,0.0,0.0,,,,,,,,,
+49,George Pickens\george-pickens-1,1,0,1,0.0,0.0,,,,,,,,,
+50,Demetris Robertson\demetris-robertson-1,1,0,1,0.0,0.0,,,,,,,,,
+51,D'Andre Swift\dandre-swift-1,1,0,1,0.0,0.0,,,,,,,,,
+52,Latavious Brini\latavious-brini-1,,,,0.0,0.0,1,0,0.0,0,0,,,,
+===================================================================================================================================
+2018
+Rk,Player,Solo,Ast,Tot,Loss,Sk,Int,Yds,Avg,TD,PD,FR,Yds,TD,FF
+1,Richard Lecounte III\richard-lecounte-iii-1,45,29,74,1.0,0.0,1,29,29.0,0,3,2,,,2
+2,J.R. Reed\jr-reed-3,38,28,66,2.0,1.0,2,0,0.0,0,2,,,,
+3,Monty Rice\monty-rice-2,25,34,59,1.5,1.0,,,,,1,,,,1
+4,Jonathan Ledbetter\jonathan-ledbetter-1,15,41,56,6.5,1.0,,,,,,,,,2
+5,Tae Crowder\tae-crowder-1,18,35,53,6.0,1.5,2,56,28.0,0,1,1,,,1
+6,Juwan Taylor\juwan-taylor-1,26,26,52,0.5,0.0,,1,,1,1,1,,,2
+7,D'Andre Walker\dandre-walker-1,23,22,45,11.0,7.5,,,,,3,1,,,4
+8,Tyson Campbell\tyson-campbell-1,29,16,45,0.5,0.0,,,,,1,2,,1,1
+9,Natrez Patrick\natrez-patrick-1,25,19,44,4.5,0.0,,,,,1,,,,
+10,Deandre Baker\deandre-baker-1,31,9,40,2.0,0.0,2,81,40.5,0,9,,,,1
+11,Tyler Clark\tyler-clark-3,15,16,31,4.0,1.0,,,,,3,1,,,0
+12,Julian Rochester\julian-rochester-1,10,21,31,2.5,1.5,,,,,,,,,
+13,Jordan Davis\jordan-davis-3,6,19,25,1.5,1.5,,,,,,,,,
+14,Tyrique McGhee\tyrique-mcghee-1,11,12,23,0.5,0.0,1,2,2.0,0,2,,,,1
+15,Malik Herring\malik-herring-1,10,13,23,3.5,1.5,,,,,,,,,1
+16,Walter Grant\walter-grant-4,9,12,21,1.0,0.0,,,,,1,,,,
+17,Brenton Cox\brenton-cox-1,7,13,20,2.0,1.0,,,,,3,,,,
+18,Eric Stokes\eric-stokes-2,16,4,20,1.0,0.0,,,,,9,,,,
+19,Devonte Wyatt\devonte-wyatt-1,8,11,19,1.5,1.5,,,,,1,,,,
+20,Channing Tindall\channing-tindall-1,3,14,17,3.0,2.0,,,,,,,,,
+21,Adam Anderson\adam-anderson-2,6,10,16,2.5,0.5,,,,,1,,,,
+22,Robert Beal\robert-beal-1,7,8,15,1.0,1.0,,,,,,,,,1
+23,Michael Barnett\michael-barnett-1,6,8,14,0.0,0.0,,,,,1,,,,
+24,Mark Webb\mark-webb-1,8,6,14,0.0,0.0,,,,,3,,,,
+25,Otis Reese\otis-reese-1,7,6,13,0.0,0.0,,,,,,,,,
+26,William Poole\william-poole-1,9,1,10,1.0,0.0,,,,,,,,,
+27,Deangelo Gibbs\deangelo-gibbs-1,1,6,7,0.0,0.0,,,,,,,,,
+28,David Marshall\david-marshall-1,0,6,6,1.0,0.0,,,,,1,,,,
+29,Quay Walker\quay-walker-1,4,2,6,0.0,0.0,,,,,,,,,
+30,Michail Carter\michail-carter-1,1,3,4,0.0,0.0,,,,,,,,,
+31,DaQuan Hawkins\daquan-hawkins-1,2,2,4,0.0,0.0,,,,,,,,,
+32,Azeez Ojulari\azeez-ojulari-1,3,1,4,1.0,0.0,,,,,,,,,
+33,Keyon Richardson\keyon-richardson-1,1,3,4,1.5,0.5,,,,,,,,,
+34,Christopher Smith\christopher-smith-1,3,1,4,0.0,0.0,,,,,,,,,
+35,Divaad Wilson\divaad-wilson-1,2,2,4,1.0,0.0,,,,,1,,,,
+36,Jay Hayes\jay-hayes-1,1,2,3,0.0,0.0,,,,,,,,,
+37,Nate McBridge\nate-mcbridge-1,1,2,3,0.0,0.0,,,,,,,,,
+38,Jeremiah Holloman\jeremiah-holloman-1,2,0,2,0.0,0.0,,,,,,,,,
+39,Jayson Stanley\jayson-stanley-1,1,1,2,0.0,0.0,,,,,,,,,
+40,Rodrigo Blankenship\rodrigo-blankenship-1,1,0,1,0.0,0.0,,,,,,,,,
+41,Latavious Brini\latavious-brini-1,1,0,1,0.0,0.0,,,,,,,,,
+42,James Cook\james-cook-2,0,1,1,0.0,0.0,,,,,,,,,
+43,Elijah Holyfield\elijah-holyfield-1,1,0,1,0.0,0.0,,,,,,,,,
+44,Prather Hudson\prather-hudson-1,1,0,1,0.0,0.0,,,,,,,,,
+45,Nick Moore\nick-moore-4,0,1,1,0.0,0.0,,,,,,,,,
+46,Tyler Simmons\tyler-simmons-2,1,0,1,0.0,0.0,,,,,,,,,
+47,Jake Skole\jake-skole-1,0,1,1,0.0,0.0,,,,,,,,,
+48,Ameer Sped\ameer-sped-1,0,1,1,0.0,0.0,,,,,,,,,
+49,D'Andre Swift\dandre-swift-1,1,0,1,0.0,0.0,,,,,,,,,
+50,Charlie Woerner\charlie-woerner-1,0,1,1,0.0,0.0,,,,,,,,,
+51,Kolby Wyatt\kolby-wyatt-1,0,1,1,0.0,0.0,,,,,,,,,
+52,Justin Young\justin-young-2,1,0,1,0.0,0.0,,,,,,,,,
+53,Isaac Nauta\isaac-nauta-1,,,,0.0,0.0,,,,,1,1,,,0
+===================================================================================================================================
+2017
+Rk,Player,Solo,Ast,Tot,Loss,Sk,Int,Yds,Avg,TD,PD,FR,Yds,TD,FF
+1,Roquan Smith\roquan-smith-1,85,52,137,14.0,6.5,,,,,2,2,,,1
+2,J.R. Reed\jr-reed-3,40,39,79,5.0,1.5,2,48,24.0,0,5,2,,1,1
+3,Lorenzo Carter\lorenzo-carter-1,31,31,62,8.5,4.5,,,,,,3,,,3
+4,Deandre Baker\deandre-baker-1,30,14,44,1.0,0.0,3,37,12.3,0,9,,,,
+5,Aaron Davis\aaron-davis-8,30,13,43,3.0,1.5,1,0,0.0,0,4,,,,1
+6,Tyler Clark\tyler-clark-3,18,23,41,6.0,2.5,,,,,,,,,
+7,Dominick Sanders\dominick-sanders-1,23,17,40,3.5,0.0,4,85,21.3,0,5,,,,
+8,D'Andre Walker\dandre-walker-1,26,13,39,13.5,5.5,,,,,1,,,,1
+9,John Atkins\john-atkins-1,17,21,38,1.0,0.0,,,,,1,1,,,0
+10,Jonathan Ledbetter\jonathan-ledbetter-1,18,20,38,5.5,2.5,,,,,,,,,
+11,Trenton Thompson\trenton-thompson-1,20,18,38,3.5,0.0,,,,,1,,,,
+12,Reggie Carter\reggie-carter-5,12,24,36,3.5,0.5,,,,,1,,,,
+13,Natrez Patrick\natrez-patrick-1,13,22,35,2.5,0.0,,,,,,,,,
+14,Davin Bellamy\davin-bellamy-1,16,18,34,7.5,5.0,,,,,3,,,,2
+15,Malkom Parrish\malkom-parrish-1,23,4,27,1.0,0.0,1,3,3.0,0,3,,,,
+16,David Marshall\david-marshall-1,13,13,26,2.5,1.0,,,,,1,,,,
+17,Tyrique McGhee\tyrique-mcghee-1,13,10,23,0.5,0.5,1,0,0.0,0,6,,,,1
+18,Monty Rice\monty-rice-2,10,12,22,2.0,0.0,,,,,,,,,
+19,Julian Rochester\julian-rochester-1,9,13,22,2.5,2.0,,,,,,,,,
+20,Richard Lecounte III\richard-lecounte-iii-1,10,5,15,0.0,0.0,,,,,,,,,
+21,Juwan Taylor\juwan-taylor-1,4,9,13,1.0,0.0,,,,,,,,,
+22,Walter Grant\walter-grant-4,5,4,9,2.5,0.5,,,,,,,,,
+23,Tae Crowder\tae-crowder-1,3,4,7,0.0,0.0,,,,,,,,,
+24,Nate McBridge\nate-mcbridge-1,4,3,7,0.0,0.0,,,,,,,,,
+25,Michail Carter\michail-carter-1,4,2,6,1.0,0.0,,,,,,,,,
+26,Michael Barnett\michael-barnett-1,4,1,5,0.0,0.0,,,,,,,,,
+27,Mecole Hardman\mecole-hardman-1,4,1,5,0.0,0.0,,,,,,,,,
+28,Malik Herring\malik-herring-1,0,5,5,0.0,0.0,,,,,,,,,
+29,Ameer Sped\ameer-sped-1,5,0,5,0.0,0.0,,,,,1,,,,
+30,Jarvis Wilson\jarvis-wilson-2,3,2,5,1.0,0.0,,,,,,,,,
+31,Keyon Brown\keyon-brown-2,3,1,4,0.0,0.0,,,,,,,,,
+32,Trent Frix\trent-frix-1,2,2,4,0.0,0.0,,,,,,,,,
+33,Christian Payne\christian-payne-1,3,1,4,0.0,0.0,,,,,,,,,
+34,Jake Fromm\jake-fromm-1,3,0,3,0.0,0.0,,,,,,,,,
+35,Deangelo Gibbs\deangelo-gibbs-1,1,2,3,0.0,0.0,,,,,,,,,
+36,Prather Hudson\prather-hudson-1,2,1,3,0.0,0.0,,,,,,,,,
+37,Jayson Stanley\jayson-stanley-1,3,0,3,0.0,0.0,,,,,,,,,
+38,Brian Herrien\brian-herrien-1,1,1,2,0.0,0.0,,,,,,,,,
+39,Tyler Simmons\tyler-simmons-2,1,1,2,0.0,0.0,,,,,,,,,
+40,Charlie Woerner\charlie-woerner-1,1,1,2,0.0,0.0,,,,,,,,,
+41,Aulden Bynum\aulden-bynum-1,1,0,1,0.0,0.0,,,,,,,,,
+42,Ben Cleveland\ben-cleveland-2,1,0,1,0.0,0.0,,,,,,,,,
+43,Sean Fogarty\sean-fogarty-1,1,0,1,0.0,0.0,,,,,,,,,
+44,Terry Godwin\terry-godwin-1,0,1,1,0.0,0.0,,,,,,,,,
+45,DaQuan Hawkins\daquan-hawkins-1,1,0,1,0.0,0.0,,,,,1,,,,
+46,Sony Michel\sony-michel-1,1,0,1,0.0,0.0,,,,,,,,,
+47,Isaac Nauta\isaac-nauta-1,1,0,1,0.0,0.0,,,,,,,,,
+48,Riley Ridley\riley-ridley-1,0,1,1,0.0,0.0,,,,,,,,,
+49,Mark Webb\mark-webb-1,0,1,1,0.0,0.0,,,,,,,,,
+50,Javon Wims\javon-wims-1,1,0,1,0.0,0.0,,,,,,,,,
+51,Justin Young\justin-young-2,1,0,1,1.0,0.0,,,,,,,,,
+===================================================================================================================================
+2016
+Rk,Player,Solo,Ast,Tot,Loss,Sk,Int,Yds,Avg,TD,PD,FR,Yds,TD,FF
+1,Roquan Smith\roquan-smith-1,52,43,95,5.0,0.0,,,,,1,1,,,2
+2,Trenton Thompson\trenton-thompson-1,29,35,64,9.5,5.0,,,,,2,,,,
+3,Natrez Patrick\natrez-patrick-1,29,30,59,4.5,1.0,,,,,,,,,
+4,Aaron Davis\aaron-davis-8,35,20,55,4.0,1.5,2,0,0.0,0,0,2,,,2
+5,Davin Bellamy\davin-bellamy-1,25,26,51,9.0,5.0,,,,,1,,,,
+6,Maurice Smith\maurice-smith-4,32,18,50,2.0,1.0,2,34,17.0,1,3,2,,,2
+7,Malkom Parrish\malkom-parrish-1,36,13,49,1.0,1.0,2,-5,-2.5,0,8,,,,1
+8,Reggie Carter\reggie-carter-5,16,29,45,2.0,1.0,,,,,,,,,1
+9,Lorenzo Carter\lorenzo-carter-1,23,21,44,6.0,5.0,,,,,,2,,1,2
+10,Julian Rochester\julian-rochester-1,10,26,36,2.0,2.0,,,,,,,,,1
+11,Dominick Sanders\dominick-sanders-1,23,11,34,1.5,0.5,3,27,9.0,0,7,2,,,0
+12,Deandre Baker\deandre-baker-1,21,10,31,1.0,1.0,2,27,13.5,0,5,1,,,1
+13,David Marshall\david-marshall-1,12,14,26,3.5,2.5,,,,,2,,,,1
+14,Jonathan Ledbetter\jonathan-ledbetter-1,7,17,24,2.5,1.0,,,,,,,,,
+15,John Atkins\john-atkins-1,7,15,22,1.5,0.0,,,,,2,,,,
+16,Tyler Clark\tyler-clark-3,7,14,21,1.5,0.5,,,,,,,,,
+17,Quincy Mauger\quincy-mauger-1,12,8,20,0.0,0.0,2,7,3.5,0,2,,,,
+18,D'Andre Walker\dandre-walker-1,9,10,19,2.5,0.0,,,,,,,,,
+19,Chuks Amaechi\chuks-amaechi-1,9,9,18,1.5,1.0,,,,,1,,,,
+20,DaQuan Hawkins\daquan-hawkins-1,6,12,18,0.0,0.0,,,,,,,,,
+21,Juwuan Briscoe\juwuan-briscoe-1,9,4,13,0.0,0.0,2,18,9.0,0,2,2,,,1
+22,Tyrique McGhee\tyrique-mcghee-1,3,6,9,0.0,0.0,,,,,,,,,
+23,Mecole Hardman\mecole-hardman-1,1,5,6,0.0,0.0,,,,,,,,,
+24,Ryne Rankin\ryne-rankin-1,2,4,6,0.0,0.0,,,,,,,,,
+25,Rashad Roundtree\rashad-roundtree-1,3,3,6,0.0,0.0,,,,,1,,,,
+26,Justin Young\justin-young-2,2,4,6,1.0,0.0,,,,,,,,,
+27,Reggie Wilkerson\reggie-wilkerson-1,5,0,5,0.0,0.0,,,,,,,,,
+28,Brendan Douglas\brendan-douglas-1,2,2,4,0.0,0.0,,,,,,,,,
+29,Juwan Taylor\juwan-taylor-1,1,3,4,0.0,0.0,,,,,,,,,
+30,Jarvis Wilson\jarvis-wilson-2,1,3,4,0.5,0.0,,,,,,,,,
+31,Michail Carter\michail-carter-1,0,3,3,0.0,0.0,,,,,,,,,
+32,Johnny O'Neal\johnny-oneal-1,2,1,3,0.0,0.0,,,,,,,,,
+33,Glenn Welch\glenn-welch-2,2,0,2,0.0,0.0,,,,,,,,,1
+34,Rodrigo Blankenship\rodrigo-blankenship-1,1,1,2,0.0,0.0,,,,,,,,,
+35,Reggie Davis\reggie-davis-4,1,1,2,0.0,0.0,,,,,,,,,
+36,Isaac Nauta\isaac-nauta-1,2,0,2,0.0,0.0,,,,,,,,,
+37,Isaiah Wynn\isaiah-wynn-1,2,0,2,0.0,0.0,,,,,,,,,
+38,Jeb Blazevich\jeb-blazevich-1,0,1,1,0.0,0.0,,,,,,,,,
+39,Trent Frix\trent-frix-1,1,0,1,0.0,0.0,,,,,,,,,
+40,Lamont Gaillard\lamont-gaillard-1,1,0,1,0.0,0.0,,,,,,,,,
+41,Brian Herrien\brian-herrien-1,0,1,1,0.0,0.0,,,,,,,,,
+===================================================================================================================================
+2015
+Rk,Player,Solo,Ast,Tot,Loss,Sk,Int,Yds,Avg,TD,PD,FR,Yds,TD,FF
+1,Jake Ganus\jake-ganus-1,43,58,101,5.0,1.0,2,0,0.0,0,0,1,,,0
+2,Leonard Floyd\leonard-floyd-1,35,37,72,8.5,4.5,,,,,3,1,96,1,0
+3,Tim Kimbrough\tim-kimbrough-1,26,36,62,4.5,1.0,,,,,1,,,,1
+4,Jordan Jenkins\jordan-jenkins-2,27,31,58,9.5,4.0,,,,,,,,,2
+5,Quincy Mauger\quincy-mauger-1,40,18,58,3.5,0.5,,,,,5,,,,
+6,Dominick Sanders\dominick-sanders-1,25,23,48,5.0,1.0,6,205,34.2,1,6,,,,
+7,Aaron Davis\aaron-davis-8,30,16,46,3.5,1.0,1,26,26.0,0,3,2,,,0
+8,Sterling Bailey\sterling-bailey-1,13,33,46,2.5,1.0,,,,,2,,,,
+9,Malkom Parrish\malkom-parrish-1,30,12,42,6.5,1.0,2,27,13.5,0,2,1,,,0
+10,Chris Mayes\chris-mayes-1,16,25,41,1.0,0.0,,,,,1,1,,,0
+11,Davin Bellamy\davin-bellamy-1,14,19,33,5.5,3.0,,,,,1,1,,,2
+12,James Deloach\james-deloach-1,8,17,25,3.5,0.5,,,,,1,1,,,0
+13,Johnathan Abram\johnathan-abram-1,11,14,25,1.5,0.0,,,,,,,,,
+14,Trenton Thompson\trenton-thompson-1,8,17,25,2.5,0.5,,,,,,,,,
+15,Natrez Patrick\natrez-patrick-1,12,10,22,2.5,1.0,,,,,,,,,
+16,Rico McGraw\rico-mcgraw-1,15,5,20,0.5,0.0,,,,,4,,,,
+17,Roquan Smith\roquan-smith-1,9,11,20,1.5,0.0,,,,,,,,,
+18,Lorenzo Carter\lorenzo-carter-1,11,8,19,0.0,0.0,,,,,1,,,,1
+19,John Atkins\john-atkins-1,2,10,12,1.0,0.0,,,,,1,,,,
+20,Reggie Wilkerson\reggie-wilkerson-1,7,4,11,2.0,0.0,1,0,0.0,0,0,,,,
+21,Ryne Rankin\ryne-rankin-1,4,5,9,0.0,0.0,,,,,,,,,
+22,D'Andre Walker\dandre-walker-1,7,2,9,0.5,0.5,,,,,,,,,
+23,Josh Dawson\josh-dawson-1,1,7,8,0.0,0.0,,,,,,,,,
+24,Juwan Taylor\juwan-taylor-1,3,4,7,0.0,0.0,,,,,,,,,
+25,Marshall Morgan\marshall-morgan-1,3,3,6,0.0,0.0,,,,,,,,,
+26,Rashad Roundtree\rashad-roundtree-1,5,1,6,0.0,0.0,,,,,,,,,
+27,Chuks Amaechi\chuks-amaechi-1,2,3,5,0.5,0.5,,,,,,,,,
+28,Michael Barnett\michael-barnett-1,0,5,5,0.0,0.0,,,,,,,,,
+29,Juwuan Briscoe\juwuan-briscoe-1,4,1,5,0.0,0.0,,,,,2,,,,
+30,Reggie Davis\reggie-davis-4,4,1,5,0.0,0.0,,,,,,,,,
+31,Jonathan Ledbetter\jonathan-ledbetter-1,2,2,4,0.0,0.0,,,,,,,,,
+32,Chauncey Rivers\chauncey-rivers-1,3,1,4,1.0,0.0,,,,,,,,,
+33,Devin Bowman\devin-bowman-1,2,1,3,0.0,0.0,,,,,,,,,
+34,Kirby Choates\kirby-choates-1,0,3,3,0.0,0.0,,,,,,,,,
+35,DaQuan Hawkins\daquan-hawkins-1,1,2,3,0.0,0.0,,,,,,,,,
+36,Johnny O'Neal\johnny-oneal-1,1,2,3,0.0,0.0,,,,,,,,,
+37,Brice Ramsey\brice-ramsey-1,2,1,3,0.0,0.0,,,,,,,,,
+38,Tramel Terry\tramel-terry-1,1,1,2,0.0,0.0,,,,,,,,,1
+39,Nathan Theus\nathan-theus-1,1,1,2,0.0,0.0,,,,,,1,,,0
+40,Kenneth Towns\kenneth-towns-1,1,1,2,0.0,0.0,,,,,,1,,,0
+41,Reggie Carter\reggie-carter-5,0,2,2,0.0,0.0,,,,,,,,,
+42,Brendan Douglas\brendan-douglas-1,2,0,2,0.0,0.0,,,,,,,,,
+43,Keith Marshall\keith-marshall-1,0,2,2,0.0,0.0,,,,,,,,,
+44,Ben Souther\ben-souther-1,2,0,2,0.0,0.0,,,,,,,,,
+45,Jarvis Wilson\jarvis-wilson-2,1,1,2,0.0,0.0,,,,,,,,,
+46,Malcolm Mitchell\malcolm-mitchell-2,1,0,1,0.0,0.0,,,,,,,,,1
+47,Deandre Baker\deandre-baker-1,1,0,1,0.0,0.0,,,,,,,,,
+48,Michael Chigbu\michael-chigbu-1,0,1,1,0.0,0.0,,,,,,,,,
+49,Nick Moore\nick-moore-4,0,1,1,0.0,0.0,,,,,,,,,
+50,Greg Pyke\greg-pyke-1,1,0,1,0.0,0.0,,,,,,,,,
+===================================================================================================================================
+2014
+Rk,Player,Solo,Ast,Tot,Loss,Sk,Int,Yds,Avg,TD,PD,FR,Yds,TD,FF
+1,Amarlo Herrera\amarlo-herrera-1,44,71,115,10.0,3.0,1,0,0.0,0,1,1,,,1
+2,Ramik Wilson\ramik-wilson-1,56,54,110,7.0,2.0,,,,,1,1,,,1
+3,Jordan Jenkins\jordan-jenkins-2,32,38,70,9.5,5.0,,,,,1,1,,,2
+4,Damian Swann\damian-swann-1,35,30,65,4.5,2.0,4,18,4.5,0,8,1,99,1,4
+5,Leonard Floyd\leonard-floyd-1,21,34,55,8.5,6.0,,,,,,1,,,3
+6,Quincy Mauger\quincy-mauger-1,34,17,51,1.0,0.0,4,21,5.3,0,4,,,,
+7,Lorenzo Carter\lorenzo-carter-1,18,23,41,7.0,4.5,,,,,,1,,,0
+8,Aaron Davis\aaron-davis-8,27,13,40,1.0,0.0,1,0,0.0,0,5,1,,,0
+9,Ray Drew\ray-drew-1,15,24,39,1.5,1.0,,,,,,,,,
+10,Dominick Sanders\dominick-sanders-1,25,9,34,1.5,0.5,3,64,21.3,0,5,1,54,1,0
+11,Tim Kimbrough\tim-kimbrough-1,17,15,32,1.0,0.0,,,,,,,,,
+12,Mike Thornton\mike-thornton-2,11,19,30,1.0,0.5,,,,,1,,,,
+13,Reggie Carter\reggie-carter-5,18,10,28,0.5,0.0,,,,,1,,,,
+14,Sterling Bailey\sterling-bailey-1,8,19,27,0.5,0.5,,,,,2,1,,,0
+15,Toby Johnson\toby-johnson-1,14,13,27,5.0,2.0,,,,,2,,,,
+16,Corey Moore\corey-moore-2,20,6,26,2.0,0.0,1,0,0.0,0,2,,,,
+17,Devin Bowman\devin-bowman-1,12,7,19,0.0,0.0,1,63,63.0,1,3,,,,
+18,Malkom Parrish\malkom-parrish-1,13,4,17,1.0,0.0,,,,,,,,,1
+19,Josh Dawson\josh-dawson-1,9,8,17,4.0,1.0,,,,,,2,,1,0
+20,Davin Bellamy\davin-bellamy-1,6,11,17,2.0,0.0,,,,,,1,,,0
+21,Kosta Vavlas\kosta-vavlas-1,11,6,17,0.0,0.0,,,,,,,,,
+22,John Atkins\john-atkins-1,4,5,9,0.0,0.0,,,,,1,,,,
+23,J.J. Green\jj-green-1,5,4,9,0.0,0.0,,,,,,,,,
+24,Chris Mayes\chris-mayes-1,2,5,7,1.0,0.0,,,,,,,,,
+25,Tramel Terry\tramel-terry-1,3,3,6,0.0,0.0,1,0,0.0,0,1,,,,
+26,James Deloach\james-deloach-1,2,4,6,0.5,0.0,,,,,,,,,
+27,Ryne Rankin\ryne-rankin-1,3,3,6,0.0,0.0,,,,,,,,,
+28,Rico Johnson\rico-johnson-1,2,3,5,0.0,0.0,,,,,,,,,1
+29,Michael Erdman\michael-erdman-1,2,3,5,0.0,0.0,,,,,,,,,
+30,Ben Souther\ben-souther-1,1,4,5,0.0,0.0,,,,,,,,,
+31,Blake Tibbs\blake-tibbs-1,3,2,5,0.0,0.0,,,,,,,,,
+32,Tristan Askew\tristan-askew-1,1,3,4,0.0,0.0,,,,,,,,,
+33,Brendan Langley\brendan-langley-1,3,1,4,1.0,0.0,,,,,1,,,,
+34,Christian Payne\christian-payne-1,2,2,4,0.0,0.0,,,,,,,,,
+35,Reggie Davis\reggie-davis-4,2,1,3,0.0,0.0,,,,,,,,,
+36,Sheldon Dawson\sheldon-dawson-1,2,1,3,0.0,0.0,,,,,,,,,
+37,Sony Michel\sony-michel-1,3,0,3,0.0,0.0,,,,,,,,,
+38,Devin Gillespie\devin-gillespie-1,2,0,2,0.0,0.0,,,,,,,,,
+39,Lucas Redd\lucas-redd-1,1,1,2,0.0,0.0,,,,,,,,,
+40,Jesse Jones\jesse-jones-1,0,1,1,0.0,0.0,,,,,,,,,
+41,Hutson Mason\hutson-mason-1,1,0,1,0.0,0.0,,,,,,,,,
+42,Taylor Maxey\taylor-maxey-1,1,0,1,0.0,0.0,,,,,,,,,
+43,Shaun McGee\shaun-mcgee-1,0,1,1,0.0,0.0,,,,,,,,,
+44,Isaiah McKenzie\isaiah-mckenzie-1,1,0,1,0.0,0.0,,,,,,,,,
+45,Malcolm Mitchell\malcolm-mitchell-2,1,0,1,0.0,0.0,,,,,,,,,
+46,Marshall Morgan\marshall-morgan-1,1,0,1,0.0,0.0,,,,,,,,,
+47,John Theus\john-theus-1,1,0,1,0.0,0.0,,,,,,,,,
+48,Reggie Wilkerson\reggie-wilkerson-1,0,1,1,0.0,0.0,,,,,,,,,
+49,Shakenneth Williams\shakenneth-williams-1,1,0,1,0.0,0.0,,,,,,,,,
+50,Nathan Theus\nathan-theus-1,,,,0.0,0.0,,,,,,1,,,0
+===================================================================================================================================
+2013
+Rk,Player,Solo,Ast,Tot,Loss,Sk,Int,Yds,Avg,TD,PD,FR,Yds,TD,FF
+1,Ramik Wilson\ramik-wilson-1,76,57,133,11.0,4.0,,,,,3,,,,
+2,Amarlo Herrera\amarlo-herrera-1,54,58,112,5.0,0.5,1,16,16.0,0,6,,,,1
+3,Josh Harvey-Clemons\josh-harvey-clemons-1,37,26,63,5.5,0.0,1,18,18.0,0,5,3,,,2
+4,Garrison Smith\garrison-smith-1,29,34,63,10.0,6.0,,,,,,,,,2
+5,Quincy Mauger\quincy-mauger-1,42,15,57,1.0,0.0,1,4,4.0,0,1,,,,1
+6,Damian Swann\damian-swann-1,43,14,57,1.0,0.0,,,,,8,,,,
+7,Leonard Floyd\leonard-floyd-1,34,21,55,9.5,6.5,,,,,1,,,,2
+8,Jordan Jenkins\jordan-jenkins-2,30,15,45,12.0,5.0,,,,,2,2,,,1
+9,Ray Drew\ray-drew-1,24,19,43,8.0,6.0,,,,,3,,,,
+10,Tray Matthews\tray-matthews-1,23,13,36,1.5,0.0,1,0,0.0,0,4,,,,1
+11,Corey Moore\corey-moore-2,27,8,35,3.0,1.0,1,1,1.0,0,1,,,,
+12,Sterling Bailey\sterling-bailey-1,14,19,33,1.0,1.0,,,,,3,,,,
+13,Chris Mayes\chris-mayes-1,14,17,31,1.0,1.0,,,,,2,,,,
+14,Connor Norman\connor-norman-1,15,9,24,0.5,0.0,,,,,1,1,,,0
+15,Shaq Wiggins\shaq-wiggins-1,17,2,19,3.0,0.0,2,39,19.5,1,4,,,,
+16,Sheldon Dawson\sheldon-dawson-1,8,5,13,1.0,0.0,,,,,,,,,
+17,Brendan Langley\brendan-langley-1,8,4,12,0.0,0.0,,,,,2,,,,
+18,Kosta Vavlas\kosta-vavlas-1,7,4,11,0.0,0.0,,,,,,,,,
+19,Reggie Carter\reggie-carter-5,3,6,9,0.5,0.0,,,,,,,,,
+20,Jonathon Taylor\jonathon-taylor-1,3,6,9,1.5,1.0,,,,,1,,,,
+21,Josh Dawson\josh-dawson-1,3,5,8,1.0,0.0,,,,,,1,,,0
+22,Toby Johnson\toby-johnson-1,2,5,7,1.5,0.0,,,,,,,,,
+23,T.J. Stripling\tj-stripling-1,2,4,6,0.5,0.0,,,,,,,,,
+24,Tim Kimbrough\tim-kimbrough-1,3,2,5,1.0,0.0,,,,,,,,,
+25,Ryne Rankin\ryne-rankin-1,3,2,5,0.0,0.0,,,,,,,,,
+26,Mike Thornton\mike-thornton-2,2,3,5,1.0,1.0,,,,,,,,,
+27,Corey Campbell\corey-campbell-2,3,1,4,0.0,0.0,,,,,,,,,
+28,James Deloach\james-deloach-1,2,2,4,0.0,0.0,,,,,,,,,
+29,Johnny O'Neal\johnny-oneal-1,2,2,4,0.0,0.0,,,,,,,,,
+30,Chris Conley\chris-conley-1,3,0,3,0.0,0.0,,,,,,,,,
+31,John Theus\john-theus-1,3,0,3,0.0,0.0,,,,,,,,,
+32,J.J. Green\jj-green-1,2,0,2,0.0,0.0,,,,,,,,,
+33,Blake Sailors\blake-sailors-1,2,0,2,0.0,0.0,,,,,,,,,
+34,David Andrews\david-andrews-3,1,0,1,0.0,0.0,,,,,,,,,
+35,Jon Bailey\jon-bailey-1,0,1,1,0.0,0.0,,,,,,,,,
+36,Michael Bennett\michael-bennett-4,1,0,1,0.0,0.0,,,,,,,,,
+37,Chris Burnette\chris-burnette-1,1,0,1,0.0,0.0,,,,,,,,,
+38,Brandon Burrows\brandon-burrows-1,1,0,1,0.0,0.0,,,,,,,,,
+39,Marc Deas\marc-deas-1,0,1,1,0.0,0.0,,,,,,,,,
+40,Keith Marshall\keith-marshall-1,1,0,1,0.0,0.0,,,,,,,,,
+41,Lucas Redd\lucas-redd-1,0,1,1,0.0,0.0,,,,,,,,,
+42,Blake Tibbs\blake-tibbs-1,1,0,1,0.0,0.0,,,,,,,,,
+43,Chase Vasser\chase-vasser-1,1,0,1,0.0,0.0,,,,,,,,,
+44,Justin Scott-Wesley\justin-scott-wesley-1,,,,0.0,0.0,,,,,,1,,,0
+===================================================================================================================================
+2012
+Rk,Player,Solo,Ast,Tot,Loss,Sk,Int,Yds,Avg,TD,PD,FR,Yds,TD,FF
+1,Alec Ogletree\alec-ogletree-1,63,48,111,11.5,3.0,1,0,0.0,0,,,,1,
+2,Shawn Williams\shawn-williams-1,56,42,98,5.5,1.0,,,,,,,,,
+3,Jarvis Jones\jarvis-jones-1,52,33,85,24.5,14.5,1,21,21.0,0,,,,,
+4,Bacarri Rambo\bacarri-rambo-1,47,26,73,1.0,1.0,3,44,14.7,0,,,,,
+5,Amarlo Herrera\amarlo-herrera-1,33,37,70,3.0,0.0,1,35,35.0,1,,,,,
+6,Garrison Smith\garrison-smith-1,27,30,57,2.0,1.0,,,,,,,,,
+7,Michael Gilliard\michael-gilliard-1,23,32,55,2.0,0.0,,,,,1,,,,
+8,Damian Swann\damian-swann-1,34,19,53,3.5,2.0,4,61,15.3,0,,,,,
+9,Sanders Commings\sanders-commings-1,42,9,51,1.0,0.0,3,0,0.0,0,,,,,
+10,John Jenkins\john-jenkins-3,22,28,50,2.0,1.0,,,,,1,,,,
+11,Christian Robinson\christian-robinson-1,22,25,47,7.5,1.0,,,,,,,,,1
+12,Kwame Geathers\kwame-geathers-1,16,24,40,5.0,1.0,,,,,,,,,
+13,Jordan Jenkins\jordan-jenkins-2,18,13,31,8.0,5.0,,,,,2,,,,1
+14,Branden Smith\branden-smith-1,18,7,25,0.0,0.0,,,,,,,,,
+15,Ray Drew\ray-drew-1,10,13,23,1.0,0.0,,,,,,,,,
+16,Cornelius Washington\cornelius-washington-1,8,14,22,3.0,0.5,,,,,1,,,,
+17,Chase Vasser\chase-vasser-1,12,7,19,4.0,0.0,,,,,,,,,1
+18,Connor Norman\connor-norman-1,5,13,18,0.0,0.0,,,,,,,,,
+19,Abry Jones\abry-jones-1,6,11,17,1.0,0.0,,,,,,,,,
+20,Josh Harvey-Clemons\josh-harvey-clemons-1,2,12,14,1.0,0.0,,,,,1,,,,
+21,Corey Moore\corey-moore-2,5,9,14,1.0,0.0,,,,,,,,,
+22,Sheldon Dawson\sheldon-dawson-1,9,3,12,0.0,0.0,,,,,,,,,
+23,Malcolm Mitchell\malcolm-mitchell-2,10,2,12,0.0,0.0,,,,,,,,,
+24,Kosta Vavlas\kosta-vavlas-1,6,3,9,0.0,0.0,,,,,,,,,1
+25,Devin Bowman\devin-bowman-1,5,4,9,0.0,0.0,,,,,,,,,
+26,T.J. Stripling\tj-stripling-1,3,5,8,1.0,1.0,,,,,,,,,1
+27,Blake Sailors\blake-sailors-1,3,5,8,0.0,0.0,,,,,,,,,
+28,Ramik Wilson\ramik-wilson-1,4,2,6,1.0,0.0,,,,,,,,,1
+29,Josh Dawson\josh-dawson-1,2,3,5,1.5,0.0,,,,,,,,,
+30,James Deloach\james-deloach-1,0,4,4,0.0,0.0,,,,,,,,,
+31,Marshall Morgan\marshall-morgan-1,4,0,4,0.0,0.0,,,,,,,,,
+32,Kenarious Gates\kenarious-gates-1,3,0,3,0.0,0.0,,,,,,,,,
+33,Ty Frix\ty-frix-1,0,2,2,0.0,0.0,,,,,,,,,
+34,Sterling Bailey\sterling-bailey-1,0,1,1,0.0,0.0,,,,,,,,,
+35,Chris Burnette\chris-burnette-1,0,1,1,0.0,0.0,,,,,,,,,
+36,Cory Campbell\cory-campbell-1,0,1,1,0.0,0.0,,,,,,,,,
+37,Marc Deas\marc-deas-1,0,1,1,0.0,0.0,,,,,,,,,
+38,Jamie Lindley\jamie-lindley-1,1,0,1,0.0,0.0,,,,,,,,,
+39,John Theus\john-theus-1,1,0,1,0.0,0.0,,,,,,,,,
+40,Collin Barber\collin-barber-2,1,0,1,0.0,0.0,,,,,,,,,
+41,Todd Gurley\todd-gurley-1,1,0,1,0.0,0.0,,,,,,,,,
+42,Tavarres King\tavarres-king-1,0,1,1,0.0,0.0,,,,,,,,,
+43,Arthur Lynch\arthur-lynch-1,1,0,1,0.0,0.0,,,,,,,,,
+44,Jay Rome\jay-rome-1,1,0,1,0.0,0.0,,,,,,,,,
+45,Richard Samuel\richard-samuel-1,1,0,1,0.0,0.0,,,,,,,,,
+===================================================================================================================================
+2011
+Rk,Player,Solo,Ast,Tot,Loss,Sk,Int,Yds,Avg,TD,PD,FR,Yds,TD,FF
+1,Shawn Williams\shawn-williams-1,48,24,72,5.0,0.0,4,58,14.5,0,,,,,
+2,Jarvis Jones\jarvis-jones-1,39,31,70,19.5,13.5,,,,,2,,,,2
+3,Michael Gilliard\michael-gilliard-1,34,31,65,7.0,2.0,1,0,0.0,0,,,,,
+4,Bacarri Rambo\bacarri-rambo-1,34,21,55,1.0,0.0,8,157,19.6,1,,,,,
+5,Brandon Boykin\brandon-boykin-1,35,20,55,11.0,0.0,3,-1,-0.3,0,,,,,
+6,Sanders Commings\sanders-commings-1,46,9,55,4.0,1.0,1,16,16.0,0,,,,,
+7,Alec Ogletree\alec-ogletree-1,41,11,52,7.5,3.0,,,,,2,,,,2
+8,Abry Jones\abry-jones-1,28,20,48,7.0,4.0,,,,,3,,,,1
+9,Christian Robinson\christian-robinson-1,21,26,47,6.5,1.5,,,,,2,,,,
+10,Amarlo Herrera\amarlo-herrera-1,16,21,37,3.0,0.0,,,,,2,,,,2
+11,John Jenkins\john-jenkins-3,14,14,28,6.0,3.0,1,2,2.0,0,,,,,
+12,Branden Smith\branden-smith-1,16,8,24,0.0,0.0,2,62,31.0,0,,,,,
+13,Garrison Smith\garrison-smith-1,11,11,22,3.0,0.0,,,,,,,,,
+14,Deangelo Tyson\deangelo-tyson-1,11,9,20,3.5,1.5,,,,,1,,,,
+15,Kosta Vavlas\kosta-vavlas-1,10,9,19,0.0,0.0,,,,,,,,,
+16,Cornelius Washington\cornelius-washington-1,11,6,17,6.0,5.0,,,,,1,,,,
+17,Chase Vasser\chase-vasser-1,10,6,16,3.5,0.0,,,,,,,,,
+18,Kwame Geathers\kwame-geathers-1,6,8,14,0.0,0.0,,,,,1,,,,
+19,Norman\norman-2,9,4,13,0.0,0.0,,,,,,,,,
+20,Connor Norman\connor-norman-1,9,4,13,0.0,0.0,,,,,,,,,
+21,Jordan Love\jordan-love-1,10,2,12,0.0,0.0,,,,,1,,,,1
+22,Quintavius Harrow\quintavius-harrow-1,5,5,10,0.0,0.0,,,,,,,,,1
+23,Jeremy Sulek\jeremy-sulek-1,6,4,10,0.0,0.0,,,,,,,,,
+24,Blake Sailors\blake-sailors-1,7,2,9,0.0,0.0,,,,,,,,,1
+25,Ray Drew\ray-drew-1,3,5,8,2.5,0.5,,,,,,1,,,1
+26,Damian Swann\damian-swann-1,3,2,5,1.0,0.0,,,,,,,,,
+27,Nick Marshall\nick-marshall-1,2,3,5,0.0,0.0,,,,,,,,,
+28,Ramik Wilson\ramik-wilson-1,2,2,4,0.0,0.0,,,,,,,,,
+29,Campbell\campbell-2,1,3,4,0.0,0.0,,,,,,,,,1
+30,Marc Deas\marc-deas-1,0,3,3,0.0,0.0,,,,,,,,,
+31,Reuben Faloughi\reuben-faloughi-1,0,3,3,1.0,0.0,,,,,,,,,
+32,Derrick Lott\derrick-lott-1,1,2,3,0.5,0.0,,,,,,,,,
+33,Derek Owens\derek-owens-1,1,1,2,0.0,0.0,,,,,,,,,
+34,T.J. Stripling\tj-stripling-1,2,0,2,0.0,0.0,,,,,,,,,
+35,Mike Thornton\mike-thornton-2,1,1,2,0.5,0.0,,,,,,,,,
+36,Michael Bennett\michael-bennett-4,2,0,2,0.0,0.0,,,,,,,,,
+37,Ty Frix\ty-frix-1,2,0,2,0.0,0.0,,,,,,,,,
+38,Chris Sanders\chris-sanders-3,1,1,2,0.0,0.0,,,,,,,,,
+39,Aron White\aron-white-1,2,0,2,0.0,0.0,,,,,,,,,
+40,Michael Erdman\michael-erdman-1,0,1,1,0.0,0.0,,,,,,,,,
+41,Arthur Lynch\arthur-lynch-1,1,0,1,0.0,0.0,,,,,,,,,
+42,Corey Moore\corey-moore-2,1,0,1,0.0,0.0,,,,,,,,,
+43,Malcolm Mitchell\malcolm-mitchell-2,1,0,1,0.0,0.0,,,,,,,,,
+44,Taylor Bradberry\taylor-bradberry-1,1,0,1,1.0,0.0,,,,,,,,,
+45,Marlon Brown\marlon-brown-1,1,0,1,0.0,0.0,,,,,,,,,
+46,Drew Butler\drew-butler-1,1,0,1,0.0,0.0,,,,,,,,,
+47,Zander Ogletree\zander-ogletree-1,1,0,1,0.0,0.0,,,,,,,,,
+48,Wes Van Dyk\wes-van-dyk-1,1,0,1,0.0,0.0,,,,,,,,,
+49,Blair Walsh\blair-walsh-1,1,0,1,0.0,0.0,,,,,,,,,
+===================================================================================================================================
+2010
+Rk,Player,Solo,Ast,Tot,Loss,Sk,Int,Yds,Avg,TD,PD,FR,Yds,TD,FF
+1,Akeem Dent\akeem-dent-1,69,57,126,6.5,2.5,,,,,2,1,0,0,2
+2,Bacarri Rambo\bacarri-rambo-1,58,24,82,5.0,0.0,3,64,21.3,1,,,,,
+3,Justin Houston\justin-houston-1,40,27,67,18.5,10.0,1,4,4.0,0,,,18,1,
+4,Marcus Dowtin\marcus-dowtin-1,32,25,57,4.5,1.5,1,1,1.0,0,,,,,
+5,Christian Robinson\christian-robinson-1,27,19,46,6.0,2.0,,,,,,,,,
+6,Brandon Boykin\brandon-boykin-1,26,18,44,6.5,1.0,3,34,11.3,0,,,,,
+7,Darryl Gamble\darryl-gamble-1,20,19,39,4.0,0.0,1,1,1.0,0,,,,,
+8,Sanders Commings\sanders-commings-1,21,15,36,0.5,0.0,3,25,8.3,0,,,,,
+9,Deangelo Tyson\deangelo-tyson-1,10,26,36,4.0,1.5,,,,,,,,,1
+10,Alec Ogletree\alec-ogletree-1,26,8,34,1.0,0.0,,,,,1,,,,
+11,Shawn Williams\shawn-williams-1,25,9,34,0.0,0.0,,,,,1,,,,
+12,Abry Jones\abry-jones-1,13,21,34,3.5,0.0,,,,,,,,,1
+13,Demarcus Dobbs\demarcus-dobbs-1,12,16,28,3.0,1.0,,,,,1,,,,
+14,Jakar Hamilton\jakar-hamilton-1,11,16,27,0.0,0.0,1,17,17.0,1,,,,,
+15,Cornelius Washington\cornelius-washington-1,18,6,24,3.0,1.0,,,,,1,,,,
+16,Vance Cuff\vance-cuff-1,17,5,22,1.0,0.0,1,30,30.0,1,,,,,
+17,Branden Smith\branden-smith-1,10,7,17,0.0,0.0,2,-7,-3.5,0,,,,,
+18,Brandon Wood\brandon-wood-2,6,10,16,1.5,1.0,,,,,,,,,
+19,Kiante Tripp\kiante-tripp-1,8,5,13,4.0,1.5,,,,,,,,,
+20,Blake Sailors\blake-sailors-1,7,2,9,0.0,0.0,,,,,,1,,,0
+21,Jordan Love\jordan-love-1,4,5,9,0.0,0.0,,,,,,,,,1
+22,Chad Gloer\chad-gloer-1,4,5,9,0.0,0.0,,,,,,,,,
+23,Michael Gilliard\michael-gilliard-1,3,5,8,0.0,0.0,,,,,,,,,
+24,Kwame Geathers\kwame-geathers-1,3,4,7,1.5,0.0,,,,,,,,,
+25,Derrick Lott\derrick-lott-1,5,2,7,1.0,0.0,,,,,,,,,
+26,Akeem Hebron\akeem-hebron-1,1,5,6,2.0,1.0,,,,,,,,,
+27,Derek Owens\derek-owens-1,3,3,6,0.0,0.0,,,,,,,,,
+28,Zander Ogletree\zander-ogletree-1,2,3,5,0.0,0.0,,,,,,,,,
+29,Jeremy Sulek\jeremy-sulek-1,2,2,4,0.0,0.0,,,,,,,,,
+30,Garrison Smith\garrison-smith-1,2,1,3,1.0,0.0,,,,,,,,,
+31,Chase Vasser\chase-vasser-1,1,2,3,0.0,0.0,,,,,,,,,
+32,Nick Williams\nick-williams-5,2,1,3,0.0,0.0,,,,,,,,,
+33,Reuben Faloughi\reuben-faloughi-1,0,2,2,0.5,0.0,,,,,,,,,
+34,Logan Gray\logan-gray-1,1,1,2,0.0,0.0,,,,,,,,,
+35,Kenarious Gates\kenarious-gates-1,1,0,1,0.0,0.0,,,,,,,,,
+36,T.J. Stripling\tj-stripling-1,1,0,1,0.0,0.0,,,,,,,,,
+37,Justin Anderson\justin-anderson-4,0,1,1,0.0,0.0,,,,,,,,,
+38,Cordy Glenn\cordy-glenn-1,0,1,1,0.0,0.0,,,,,,,,,
+39,Jeremy Longo\jeremy-longo-1,0,1,1,0.5,0.0,,,,,,,,,
+40,Trinton Sturdivant\trinton-sturdivant-1,0,1,1,0.0,0.0,,,,,,,,,
+41,Shaun Chapas\shaun-chapas-1,1,0,1,0.0,0.0,,,,,,,,,
+42,Kris Durham\kris-durham-1,1,0,1,0.0,0.0,,,,,,,,,
+43,Bruce Figgins\bruce-figgins-1,1,0,1,0.0,0.0,,,,,,,,,
+44,A.J. Green\aj-green-1,1,0,1,0.0,0.0,,,,,,,,,
+45,Tavarres King\tavarres-king-1,1,0,1,0.0,0.0,,,,,,,,,
+46,Blair Walsh\blair-walsh-1,1,0,1,0.0,0.0,,,,,,,,,
+===================================================================================================================================
+2009
+Rk,Player,Solo,Ast,Tot,Loss,Sk,Int,Yds,Avg,TD,PD,FR,Yds,TD,FF
+1,Rennie Curran\rennie-curran-1,66,64,130,5.0,0.5,,,,,3,1,3,0,0
+2,Reshad Jones\reshad-jones-1,44,29,73,4.5,0.0,4,89,22.3,0,,,,,
+3,Marcus Dowtin\marcus-dowtin-1,24,33,57,7.0,2.0,,,,,1,,,,
+4,Brandon Boykin\brandon-boykin-1,40,14,54,2.5,0.0,3,3,1.0,0,,,,,
+5,Bryan Evans\bryan-evans-1,29,21,50,0.5,0.0,,,,,3,,,,
+6,Darryl Gamble\darryl-gamble-1,26,21,47,2.0,1.0,,,,,2,,,,1
+7,Prince Miller\prince-miller-1,27,15,42,5.0,0.0,,,,,,,,,
+8,Justin Houston\justin-houston-1,22,17,39,15.0,7.5,,,,,1,,,,1
+9,Geno Atkins\geno-atkins-1,22,14,36,10.5,3.0,,,,,,,,,1
+10,Akeem Dent\akeem-dent-1,13,19,32,2.5,0.5,,,,,,,,,
+11,Jeff Owens\jeff-owens-1,14,18,32,4.0,1.5,,,,,,,,,
+12,Demarcus Dobbs\demarcus-dobbs-1,11,19,30,5.5,4.5,,,,,4,,,,3
+13,Kade Weston\kade-weston-1,12,17,29,6.5,2.5,,,,,,,,,
+14,Bacarri Rambo\bacarri-rambo-1,20,5,25,0.0,0.0,2,28,14.0,1,,,,,
+15,Darius Dewberry\darius-dewberry-1,9,14,23,0.5,0.0,,,,,,,,,1
+16,Vance Cuff\vance-cuff-1,12,9,21,1.5,0.0,,,,,2,,,,
+17,Christian Robinson\christian-robinson-1,8,11,19,2.5,0.0,,,,,,,,,
+18,Brandon Wood\brandon-wood-2,5,9,14,0.0,0.0,,,,,1,,,,
+19,Branden Smith\branden-smith-1,9,5,14,0.5,0.0,,,,,,,,,
+20,Cornelius Washington\cornelius-washington-1,9,4,13,5.0,4.0,,,,,,,,,
+21,Sanders Commings\sanders-commings-1,6,6,12,0.5,0.0,1,15,15.0,0,,,,,
+22,Deangelo Tyson\deangelo-tyson-1,2,10,12,0.0,0.0,,,,,,,,,
+23,Marcus Washington\marcus-washington-1,5,4,9,2.0,0.0,,,,,,,,,
+24,Chad Gloer\chad-gloer-1,3,6,9,0.0,0.0,,,,,,,,,
+25,Nick Williams\nick-williams-5,3,6,9,0.0,0.0,,,,,,,,,
+26,Abry Jones\abry-jones-1,5,3,8,2.0,1.0,,,,,,,,,
+27,Richard Samuel\richard-samuel-1,6,2,8,0.0,0.0,,,,,,,,,
+28,Michael Gilliard\michael-gilliard-1,4,3,7,0.0,0.0,,,,,,,,,
+29,Brandon Wheeling\brandon-wheeling-1,4,3,7,1.0,0.0,,,,,,,,,
+30,Justin Fields\justin-fields-1,4,2,6,0.0,0.0,,,,,,,,,
+31,Shawn Williams\shawn-williams-1,3,2,5,0.0,0.0,,,,,,,,,
+32,Montez Robinson\montez-robinson-1,4,1,5,2.5,2.0,,,,,,,,,
+33,Shaun Chapas\shaun-chapas-1,4,0,4,0.0,0.0,,,,,,,,,
+34,Quintin Banks\quintin-banks-1,3,0,3,1.0,0.0,,,,,,,,,
+35,Roderick Battle\roderick-battle-1,3,0,3,0.0,0.0,,,,,,,,,
+36,Akeem Hebron\akeem-hebron-1,2,1,3,0.0,0.0,,,,,,,,,
+37,Ty Frix\ty-frix-1,2,0,2,0.0,0.0,,,,,,,,,
+38,Jeremy Longo\jeremy-longo-1,0,2,2,0.5,0.0,,,,,,,,,
+39,Makiri Pugh\makiri-pugh-1,1,1,2,0.0,0.0,,,,,,,,,
+40,Caleb King\caleb-king-1,2,0,2,0.0,0.0,,,,,,,,,
+41,Blair Walsh\blair-walsh-1,2,0,2,0.0,0.0,,,,,,,,,
+42,Kiante Tripp\kiante-tripp-1,0,1,1,0.0,0.0,,,,,,,,,
+43,Josh Davis\josh-davis-4,1,0,1,0.0,0.0,,,,,,,,,
+44,Cordy Glenn\cordy-glenn-1,1,0,1,0.0,0.0,,,,,,,,,
+45,Ben Jones\ben-jones-3,1,0,1,0.0,0.0,,,,,,,,,
+46,Tavarres King\tavarres-king-1,1,0,1,0.0,0.0,,,,,,,,,
+47,Fred Munzenmaier\fred-munzenmaier-1,1,0,1,0.0,0.0,,,,,,,,,
+===================================================================================================================================
+2008
+Rk,Player,Solo,Ast,Tot,Loss,Sk,Int,Yds,Avg,TD,PD,FR,Yds,TD,FF
+1,Rennie Curran\rennie-curran-1,63,52,115,10.0,3.0,,,,,1,,,,2
+2,Reshad Jones\reshad-jones-1,45,31,76,2.5,0.0,5,32,6.4,0,,,,,
+3,Darryl Gamble\darryl-gamble-1,26,34,60,3.0,1.0,2,93,46.5,2,,,,,
+4,Asher Allen\asher-allen-1,44,9,53,4.5,1.0,,,,,,,,,
+5,Prince Miller\prince-miller-1,33,17,50,2.0,1.0,,,,,,,,,
+6,C.J. Byrd\cj-byrd-1,30,19,49,2.0,0.0,,,,,6,,,,
+7,Akeem Dent\akeem-dent-1,27,19,46,3.0,1.5,,,,,2,,,,
+8,Geno Atkins\geno-atkins-1,19,15,34,7.5,0.0,,,,,1,,,,
+9,Corvey Irvin\corvey-irvin-1,22,12,34,8.5,3.0,,,,,3,,,,
+10,Dannell Ellerbe\dannell-ellerbe-1,17,16,33,6.0,2.0,1,0,0.0,0,,,,,
+11,Bryan Evans\bryan-evans-1,23,1,24,0.0,0.0,,,,,3,,,,
+12,Jarius Wynn\jarius-wynn-1,11,13,24,4.0,3.0,,,,,1,,,,
+13,Jeremy Lomax\jeremy-lomax-1,7,13,20,3.0,0.5,,,,,,,,,
+14,Demarcus Dobbs\demarcus-dobbs-1,9,10,19,2.0,2.0,2,78,39.0,1,,,,,
+15,Justin Houston\justin-houston-1,10,9,19,4.5,2.5,,,,,2,,,,
+16,Kade Weston\kade-weston-1,13,5,18,3.5,0.0,,,,,,,,,
+17,Marcus Dowtin\marcus-dowtin-1,9,8,17,0.0,0.0,,,,,,,,,1
+18,Ramarcus Brown\ramarcus-brown-1,11,5,16,1.0,0.0,,,,,,,,,
+19,Roderick Battle\roderick-battle-1,9,5,14,3.5,0.5,,,,,1,,,,2
+20,Vance Cuff\vance-cuff-1,10,3,13,0.0,0.0,,,,,,,,,
+21,Deangelo Tyson\deangelo-tyson-1,5,6,11,1.0,0.0,,,,,,,,,
+22,Brandon Wood\brandon-wood-2,2,9,11,0.5,0.5,,,,,1,,,,
+23,Chad Gloer\chad-gloer-1,7,3,10,0.0,0.0,,,,,,,,,
+24,Andrew Williams\andrew-williams-2,4,6,10,0.0,0.0,,,,,,,,,
+25,Benjamin Boyd\benjamin-boyd-1,5,4,9,0.0,0.0,,,,,,,,,
+26,John Knox\john-knox-1,5,3,8,0.0,0.0,,,,,,,,,
+27,Brandon Boykin\brandon-boykin-1,5,1,6,0.0,0.0,,,,,,,,,
+28,Mohamed Massaquoi\mohamed-massaquoi-1,4,0,4,0.0,0.0,,,,,,,,,
+29,Richard Samuel\richard-samuel-1,1,3,4,0.0,0.0,,,,,,,,,
+30,Darius Dewberry\darius-dewberry-1,1,2,3,0.0,0.0,1,0,0.0,0,,,,,
+31,Andrew Gully\andrew-gully-1,1,2,3,1.0,1.0,,,,,,,,,
+32,Ricardo Crawford\ricardo-crawford-1,1,1,2,0.5,0.5,,,,,,,,,
+33,Tripp Chandler\tripp-chandler-1,1,1,2,0.0,0.0,,,,,,,,,
+34,Shaun Chapas\shaun-chapas-1,2,0,2,0.0,0.0,,,,,,,,,
+35,Fred Munzenmaier\fred-munzenmaier-1,1,1,2,0.0,0.0,,,,,,,,,
+36,Matthew Stafford\matthew-stafford-1,2,0,2,0.0,0.0,,,,,,,,,
+37,Blair Walsh\blair-walsh-1,2,0,2,0.0,0.0,,,,,,,,,
+38,Clint Boling\clint-boling-1,1,0,1,0.0,0.0,,,,,,,,,
+39,Josh Davis\josh-davis-4,1,0,1,0.0,0.0,,,,,,,,,
+40,Matthew Degenova\matthew-degenova-1,0,1,1,0.0,0.0,,,,,,,,,
+41,Akeem Hebron\akeem-hebron-1,0,1,1,0.0,0.0,,,,,,,,,
+42,Jeff Owens\jeff-owens-1,0,1,1,0.5,0.0,,,,,,,,,
+43,Logan Gray\logan-gray-1,0,1,1,0.0,0.0,,,,,,,,,
+44,Brannan Southerland\brannan-southerland-1,0,1,1,0.0,0.0,,,,,,,,,
+===================================================================================================================================
+2007
+Rk,Player,Solo,Ast,Tot,Loss,Sk,Int,Yds,Avg,TD,PD,FR,Yds,TD,FF
+1,Dannell Ellerbe\dannell-ellerbe-1,53,40,93,12.0,4.5,1,0,0.0,0,,,,,
+2,Asher Allen\asher-allen-1,50,14,64,3.0,2.0,3,4,1.3,0,,,,,
+3,Reshad Jones\reshad-jones-1,40,17,57,3.0,0.0,2,53,26.5,0,,,,,
+4,Rennie Curran\rennie-curran-1,41,12,53,9.0,3.0,,,,,,,,,
+5,Kelin Johnson\kelin-johnson-1,31,18,49,0.5,0.5,4,53,13.3,0,,,,,
+6,C.J. Byrd\cj-byrd-1,29,15,44,1.5,0.0,1,-3,-3.0,0,,,,,
+7,Marcus Howard\marcus-howard-1,29,12,41,12.5,10.5,,,,,3,1,13,1,3
+8,Geno Atkins\geno-atkins-1,30,11,41,15.0,7.5,,,,,1,,,,
+9,Marcus Washington\marcus-washington-1,27,13,40,2.5,2.5,,,,,,,,,
+10,Thomas Flowers\thomas-flowers-1,32,4,36,2.0,0.0,1,0,0.0,0,,,,,
+11,Akeem Dent\akeem-dent-1,26,10,36,0.5,0.0,,,,,1,,,,
+12,Brandon Miller\brandon-miller-1,22,13,35,2.5,1.0,1,13,13.0,0,,,,,
+13,Jeffrey Owens\jeffrey-owens-1,18,9,27,3.5,0.0,,,,,,,,,1
+14,Prince Miller\prince-miller-1,16,8,24,0.0,0.0,1,0,0.0,0,,,,,
+15,Darius Dewberry\darius-dewberry-1,12,12,24,1.0,0.0,,,,,,,,,
+16,Roderick Battle\roderick-battle-1,15,9,24,4.0,2.5,,,,,1,,,,3
+17,Kade Weston\kade-weston-1,9,9,18,6.0,2.0,,,,,,,,,
+18,Bryan Evans\bryan-evans-1,14,3,17,0.0,0.0,1,0,0.0,0,,,,,
+19,Jeremy Lomax\jeremy-lomax-1,11,5,16,4.5,4.5,,,,,1,,,,1
+20,Darryl Gamble\darryl-gamble-1,6,8,14,1.0,0.0,,,,,1,,,,1
+21,Corvey Irvin\corvey-irvin-1,10,4,14,2.5,0.5,,,,,,,,,
+22,Shaun Chapas\shaun-chapas-1,9,3,12,0.0,0.0,,,,,,,,,
+23,Drew Williams\drew-williams-1,8,3,11,0.0,0.0,,,,,,,,,
+24,Ramarcus Brown\ramarcus-brown-1,7,3,10,0.0,0.0,,,,,,,,,
+25,Jarius Wynn\jarius-wynn-1,6,3,9,1.0,1.0,,,,,,,,,
+26,Quintin Banks\quintin-banks-1,6,2,8,1.5,0.0,,,,,,,,,
+27,Vance Cuff\vance-cuff-1,2,4,6,0.0,0.0,,,,,,,,,
+28,Michael Lemon\michael-lemon-2,3,3,6,0.0,0.0,,,,,1,,,,
+29,Benjamin Boyd\benjamin-boyd-1,3,2,5,0.0,0.0,,,,,,,,,
+30,Christopher Gaunder\christopher-gaunder-1,2,3,5,0.0,0.0,,,,,,,,,
+31,Thomas Brown\thomas-brown-1,3,0,3,0.0,0.0,,,,,,,,,
+32,Mitchell Pittman\mitchell-pittman-1,0,2,2,0.0,0.0,,,,,,,,,
+33,Brandon Coutu\brandon-coutu-1,1,1,2,0.0,0.0,,,,,,,,,
+34,Brannan Southerland\brannan-southerland-1,2,0,2,0.0,0.0,,,,,,,,,
+35,Demarcus Dobbs\demarcus-dobbs-1,1,0,1,0.0,0.0,,,,,,,,,
+36,Clint Boling\clint-boling-1,1,0,1,0.0,0.0,,,,,,,,,
+37,Ricardo Crawford\ricardo-crawford-1,0,1,1,0.0,0.0,,,,,,,,,
+38,Andrew Gully\andrew-gully-1,1,0,1,0.0,0.0,,,,,,,,,
+39,Scott Haverkamp\scott-haverkamp-1,1,0,1,0.0,0.0,,,,,,,,,
+40,Wes Jacobs\wes-jacobs-1,0,1,1,0.0,0.0,,,,,,,,,
+41,Brandon Wood\brandon-wood-2,1,0,1,0.0,0.0,,,,,,,,,
+42,Tripp Chandler\tripp-chandler-1,1,0,1,0.0,0.0,,,,,,,,,
+43,Mikey Henderson\mikey-henderson-1,1,0,1,0.0,0.0,,,,,,,,,
+44,Jason Johnson\jason-johnson-1,0,1,1,0.0,0.0,,,,,,,,,
+45,Mohamed Massaquoi\mohamed-massaquoi-1,1,0,1,1.0,0.0,,,,,,,,,
+===================================================================================================================================
+2006
+Rk,Player,Solo,Ast,Tot,Loss,Sk,Int,Yds,Avg,TD,PD,FR,Yds,TD,FF
+1,Tony Taylor\tony-taylor-1,65,31,96,7.5,3.0,7,97,13.9,1,,,29,1,
+2,Jarvis Jackson\jarvis-jackson-1,37,34,71,2.5,1.0,1,0,0.0,0,,,,,
+3,Kelin Johnson\kelin-johnson-1,48,12,60,5.5,2.5,2,2,1.0,0,,,,,
+4,Tra Battle\tra-battle-1,34,23,57,3.5,2.0,6,154,25.7,1,,,,,
+5,Paul Oliver\paul-oliver-1,46,11,57,6.5,2.0,3,44,14.7,0,,,,,
+6,Charles Johnson\charles-johnson-1,36,8,44,19.0,9.5,,,,,10,1,9,0,3
+7,Ramarcus Brown\ramarcus-brown-1,26,13,39,1.0,0.0,,,,,,,,,
+8,Danny Verdun-Wheeler\danny-verdun-wheeler-1,24,13,37,4.0,0.0,,,,,,,,,2
+9,Quentin Moses\quentin-moses-1,21,12,33,12.0,4.5,,,,,1,,,,
+10,Bryan Evans\bryan-evans-1,24,2,26,3.0,1.0,,,,,6,,,,
+11,Jeffrey Owens\jeffrey-owens-1,21,5,26,1.5,1.0,,,,,3,1,1,0,1
+12,Asher Allen\asher-allen-1,20,4,24,1.5,0.0,,,,,,,,,
+13,Brandon Miller\brandon-miller-1,17,6,23,2.0,0.0,,,,,2,,,,
+14,Ray Gant\ray-gant-1,12,6,18,3.5,3.0,,,,,1,,,,
+15,Kade Weston\kade-weston-1,8,5,13,0.0,0.0,,,,,2,,,,
+16,Drew Williams\drew-williams-1,7,5,12,0.0,0.0,,,,,,,,,
+17,Marcus Howard\marcus-howard-1,10,1,11,0.0,0.0,,,,,,1,10,0,1
+18,Dale Dixson\dale-dixson-1,4,6,10,1.5,0.0,,,,,1,,,,
+19,Prince Miller\prince-miller-1,8,2,10,0.0,0.0,,,,,,,,,
+20,Geno Atkins\geno-atkins-1,5,4,9,0.5,0.5,,,,,,,,,
+21,C.J. Byrd\cj-byrd-1,6,2,8,0.0,0.0,,,,,,,,,
+22,Dannell Ellerbe\dannell-ellerbe-1,4,3,7,0.0,0.0,,,,,,,,,
+23,Christopher Gaunder\christopher-gaunder-1,5,2,7,0.0,0.0,,,,,,,,,
+24,Darius Dewberry\darius-dewberry-1,4,2,6,1.0,0.0,,,,,,,,,
+25,Stephen White\stephen-white-1,3,2,5,0.0,0.0,,,,,,,,,
+26,Jeremy Lomax\jeremy-lomax-1,3,2,5,1.0,1.0,,,,,,,,,
+27,Donavon Baldwin\donavon-baldwin-1,4,0,4,0.0,0.0,,,,,,,,,
+28,Roderick Battle\roderick-battle-1,3,1,4,2.0,2.0,,,,,,,,,
+29,Marcus Washington\marcus-washington-1,3,1,4,0.0,0.0,,,,,,,,,
+30,Marquis Elmore\marquis-elmore-1,1,2,3,0.0,0.0,,,,,1,,,,
+31,Rowdy Francis\rowdy-francis-1,2,0,2,0.0,0.0,,,,,,,,,
+32,Benjamin Boyd\benjamin-boyd-1,2,0,2,0.0,0.0,,,,,,,,,
+33,Kregg Lumpkin\kregg-lumpkin-1,2,0,2,0.0,0.0,,,,,,,,,
+34,Martrez Milner\martrez-milner-1,2,0,2,0.0,0.0,,,,,,,,,
+35,Josh Davis\josh-davis-4,1,0,1,0.0,0.0,,,,,,,,,
+36,Jeff Henson\jeff-henson-1,1,0,1,0.0,0.0,,,,,,,,,
+37,Tripp Taylor\tripp-taylor-1,1,0,1,0.0,0.0,,,,,,,,,
+38,Fernando Velasco\fernando-velasco-1,1,0,1,0.0,0.0,,,,,,,,,
+39,Mikey Henderson\mikey-henderson-1,1,0,1,0.0,0.0,,,,,,,,,
+40,Brannan Southerland\brannan-southerland-1,1,0,1,0.0,0.0,,,,,,,,,
+===================================================================================================================================
+2005
+Rk,Player,Solo,Ast,Tot,Loss,Sk,Int,Yds,Avg,TD,PD,FR,Yds,TD,FF
+1,Greg Blue\greg-blue-1,70,26,96,3.5,0.0,2,0,0.0,0,,,,,
+2,Jarvis Jackson\jarvis-jackson-1,58,29,87,6.0,1.0,,,,,,,,,1
+3,Tra Battle\tra-battle-1,50,21,71,1.0,0.0,2,43,21.5,0,,,,,
+4,Danny Verdun-Wheeler\danny-verdun-wheeler-1,46,16,62,3.0,0.0,,,,,,,,,
+5,Tim Jennings\tim-jennings-1,46,10,56,7.0,1.0,4,79,19.8,1,,,,,
+6,Tony Taylor\tony-taylor-1,37,19,56,5.5,1.0,1,-2,-2.0,0,,,,,
+7,Demario Minter\demario-minter-1,38,10,48,3.0,0.0,2,0,0.0,0,,,,,
+8,Quentin Moses\quentin-moses-1,35,9,44,20.5,11.5,,,,,2,,,,1
+9,Brandon Miller\brandon-miller-1,25,15,40,3.0,0.0,,,,,1,,,,2
+10,Paul Oliver\paul-oliver-1,23,5,28,1.0,0.0,3,30,10.0,0,,,,,
+11,Marcus Howard\marcus-howard-1,17,7,24,2.0,2.0,,,,,,,,,
+12,Charles Johnson\charles-johnson-1,15,8,23,8.5,4.0,,,,,1,,,1,1
+13,Will Thompson\will-thompson-1,19,4,23,10.5,5.0,,,,,,,,,
+14,Kedric Golston\kedric-golston-1,13,7,20,2.0,1.0,,,,,,,,,
+15,Ray Gant\ray-gant-1,12,7,19,3.0,2.0,,,,,1,,,,
+16,Darrius Swain\darrius-swain-1,10,6,16,2.0,1.5,,,,,,,,,
+17,Jeffrey Owens\jeffrey-owens-1,11,5,16,3.5,3.0,,,,,,,,,
+18,Gerald Anderson\gerald-anderson-1,8,7,15,1.0,0.0,,,,,,,,,
+19,Dannell Ellerbe\dannell-ellerbe-1,10,4,14,2.0,2.0,1,9,9.0,0,,,,,
+20,Kelin Johnson\kelin-johnson-1,9,5,14,1.0,0.0,,,,,,,,,
+21,Marcus Washington\marcus-washington-1,6,5,11,0.0,0.0,,,,,,,,,
+22,C.J. Byrd\cj-byrd-1,6,2,8,0.0,0.0,,,,,,,,,
+23,Thomas Flowers\thomas-flowers-1,6,1,7,0.0,0.0,1,3,3.0,0,,,,,
+24,Benjamin Boyd\benjamin-boyd-1,5,1,6,0.0,0.0,,,,,,,,,
+25,Mike Gilliam\mike-gilliam-1,4,1,5,0.0,0.0,,,,,,,,,
+26,Jamario Smith\jamario-smith-1,4,1,5,0.0,0.0,,,,,,,,,
+27,Drew Williams\drew-williams-1,1,3,4,0.0,0.0,,,,,,,,,
+28,Tony Milton\tony-milton-1,4,0,4,0.0,0.0,,,,,,,,,
+29,Stephen White\stephen-white-1,2,2,4,0.0,0.0,,,,,,,,,
+30,Dale Dixson\dale-dixson-1,2,1,3,1.0,0.0,,,,,,,,,
+31,Mikey Henderson\mikey-henderson-1,2,0,2,0.0,0.0,,,,,,,,,
+32,Brian Jordan\brian-jordan-1,2,0,2,0.0,0.0,,,,,,,,,
+33,Ramarcus Brown\ramarcus-brown-1,2,0,2,0.0,0.0,,,,,,,,,
+34,Leonard Pope\leonard-pope-1,1,1,2,0.0,0.0,,,,,,,,,
+35,Brannan Southerland\brannan-southerland-1,2,0,2,0.0,0.0,,,,,,,,,
+36,Joe Tereshinski\joe-tereshinski-1,1,1,2,0.0,0.0,,,,,,,,,
+37,John Degenova\john-degenova-1,0,1,1,0.0,0.0,,,,,,,,,
+38,Christopher Gaunder\christopher-gaunder-1,1,0,1,0.0,0.0,,,,,,,,,
+39,Jeremy Lomax\jeremy-lomax-1,1,0,1,0.0,0.0,,,,,,,,,
+40,Olaolu Sanni-Osomo\olaolu-sanni-osomo-1,1,0,1,0.0,0.0,,,,,,,,,
+41,Thomas Brown\thomas-brown-1,1,0,1,0.0,0.0,,,,,,,,,
+42,Gordon Ely-Kelso\gordon-ely-kelso-1,1,0,1,0.0,0.0,,,,,,,,,
+43,Kregg Lumpkin\kregg-lumpkin-1,1,0,1,0.0,0.0,,,,,,,,,
+44,Mohamed Massaquoi\mohamed-massaquoi-1,1,0,1,0.0,0.0,,,,,,,,,
+45,Bryan McClendon\bryan-mcclendon-1,1,0,1,0.0,0.0,,,,,,,,,
+===================================================================================================================================
+2004
+Rk,Player,Int,Yds,Avg,TD,PD,FR,Yds,TD,FF
+1,Tim Jennings\tim-jennings-1,2,0,0.0,0,,,,,
+2,Thomas Davis\thomas-davis-1,1,0,0.0,0,,,,,
+3,Kelin Johnson\kelin-johnson-1,1,19,19.0,0,,,,,
+4,Paul Oliver\paul-oliver-1,1,14,14.0,0,,,,,
+5,Jarvis Jackson\jarvis-jackson-1,,,,,,1,-1,0,
+6,Derrick White\derrick-white-1,,,,,,1,8,0,
+=======================================================================================
+2003
+Rk,Player,Int,Yds,Avg,TD,PD,FR,Yds,TD,FF
+1,Sean Jones\sean-jones-1,5,42,8.4,0,,,92,1,
+2,David Pollack\david-pollack-1,2,24,12.0,0,,,,,
+3,Tony Taylor\tony-taylor-1,2,16,8.0,0,,,,,
+4,Bruce Thornton\bruce-thornton-1,2,4,2.0,0,,,,,
+5,Odell Thurman\odell-thurman-1,2,125,62.5,1,,,,,
+6,Decory Bryant\decory-bryant-1,1,-5,-5.0,0,,,,,
+7,Thomas Davis\thomas-davis-1,1,34,34.0,0,,,,,
+8,Robert Geathers\robert-geathers-1,1,0,0.0,0,,,,,
+9,Tim Jennings\tim-jennings-1,1,6,6.0,0,,,,,
+10,Derrick White\derrick-white-1,,,,,,1,16,0,
+=======================================================================================
+2002
+Rk,Player,Int,Yds,Avg,TD,PD,FR,Yds,TD,FF
+1,Kentrell Curry\kentrell-curry-1,4,145,36.3,1,,,,,
+2,Tim Jennings\tim-jennings-1,3,109,36.3,1,,,,,
+3,Sean Jones\sean-jones-1,2,58,29.0,0,,,,,
+4,David Pollack\david-pollack-1,2,39,19.5,1,,,,,
+5,Bruce Thornton\bruce-thornton-1,2,71,35.5,1,,,,,
+6,Decory Bryant\decory-bryant-1,1,0,0.0,0,,,,,
+7,Thomas Davis\thomas-davis-1,1,11,11.0,0,,,,,
+8,Darrius Swain\darrius-swain-1,1,0,0.0,0,,,,,
+9,Robert Geathers\robert-geathers-1,,,,,,1,2,0,
+=======================================================================================
+2001
+Rk,Player,Int,Yds,Avg,TD,PD,FR,Yds,TD,FF
+1,Jermaine Phillips\jermaine-phillips-1,3,89,29.7,1,,,,,
+2,Tim Wansley\tim-wansley-1,2,56,28.0,1,,,,,
+3,Boss Bailey\boss-bailey-1,1,0,0.0,0,,,,,
+4,Decory Bryant\decory-bryant-1,1,0,0.0,0,,,,,
+5,Ryan Davis\ryan-davis-1,1,0,0.0,0,,,,,
+6,Robert Geathers\robert-geathers-1,1,9,9.0,0,,,,,
+7,Tony Gilbert\tony-gilbert-1,1,5,5.0,0,,,,,
+8,Brandon Williams\brandon-williams-1,1,6,6.0,0,,,,,
+9,Bruce Thornton\bruce-thornton-1,,,,,,1,29,0,
+=======================================================================================
+2000
+Rk,Player,Int,Yds,Avg,TD,PD,FR,Yds,TD,FF
+1,Tim Wansley\tim-wansley-1,6,148,24.7,2,,,,,
+2,Terreal Bierria\terreal-bierria-1,3,96,32.0,1,,,,,
+3,Jamie Henderson\jamie-henderson-1,3,35,11.7,1,,,,,
+4,Cory Robinson\cory-robinson-1,3,29,9.7,0,,,,,
+5,Jermaine Phillips\jermaine-phillips-1,2,0,0.0,0,,,,,
+6,Kendrell Bell\kendrell-bell-1,1,5,5.0,0,,,,,
+7,Dantra Clements\dantra-clements-1,1,2,2.0,0,,,,,
+=======================================================================================
+1999
+Rk,Player,Int,Yds,Avg,TD,PD
+1,Jamie Henderson\jamie-henderson-1,5,77,15.4,1,
+2,Cory Robinson\cory-robinson-1,5,65,13.0,0,
+3,Kendrell Bell\kendrell-bell-1,3,18,6.0,0,
+4,Cap Burnett\cap-burnett-1,2,6,3.0,0,
+5,Jeff Harris\jeff-harris-2,2,9,4.5,0,
+6,Terreal Bierria\terreal-bierria-1,1,4,4.0,0,
+7,Richard Seymour\richard-seymour-2,1,1,1.0,0,
+8,Tim Wansley\tim-wansley-1,1,0,0.0,0,
+=======================================================================================
+1998
+Rk,Player,Int,Yds,Avg,TD,PD
+1,Kirby Smart\kirby-smart-1,5,62,12.4,0,
+2,Jeff Harris\jeff-harris-2,4,0,0.0,0,
+3,Champ Bailey\champ-bailey-1,3,20,6.7,0,
+4,Larry Mann\larry-mann-1,3,47,15.7,0,
+5,Ryan Fleming\ryan-fleming-4,1,42,42.0,0,
+6,Adrian Hollingshed\adrian-hollingshed-1,1,4,4.0,0,
+7,Emarlos Leroy\emarlos-leroy-1,1,0,0.0,0,
+8,Tim Wansley\tim-wansley-1,1,0,0.0,0,
+=======================================================================================
+1997
+Rk,Player,Int,Yds,Avg,TD,PD
+1,Kirby Smart\kirby-smart-1,6,0,0.0,0,
+2,Champ Bailey\champ-bailey-1,3,47,15.7,1,
+3,Ronald Bailey\ronald-bailey-1,3,43,14.3,1,
+4,Larry Mann\larry-mann-1,2,18,9.0,0,
+5,Mike Luckie\mike-luckie-1,1,22,22.0,1,
+6,Brandon Tolbert\brandon-tolbert-2,1,4,4.0,0,
+=======================================================================================
+1996
+Rk,Player,Int,Yds,Avg,TD,PD
+1,Corey Johnson\corey-johnson-4,4,26,6.5,0,
+2,Greg Bright\greg-bright-1,3,73,24.3,0,
+3,Champ Bailey\champ-bailey-1,2,0,0.0,0,
+4,Alandus Sims\alandus-sims-1,2,12,6.0,0,
+5,Ronald Bailey\ronald-bailey-1,1,0,0.0,0,
+6,Mike Luckie\mike-luckie-1,1,1,1.0,0,
+7,Kirby Smart\kirby-smart-1,1,0,0.0,0,
+=======================================================================================
+1995
+Rk,Player,Int,Yds,Avg,TD,PD
+1,Corey Johnson\corey-johnson-4,3,60,20.0,1,
+2,Ronald Bailey\ronald-bailey-1,1,15,15.0,0,
+3,Phillip Daniels\phillip-daniels-1,1,21,21.0,1,
+4,Armin Love\armin-love-1,1,9,9.0,0,
+5,Erik Robinson\erik-robinson-2,1,18,18.0,0,
+6,Alandus Sims\alandus-sims-1,1,16,16.0,0,
+7,Kirby Smart\kirby-smart-1,1,12,12.0,0,
+8,Brandon Tolbert\brandon-tolbert-2,1,0,0.0,0,
+=======================================================================================
+1994
+Rk,Player,Int,Yds,Avg,TD,PD
+1,Carlos Yancy\carlos-yancy-1,6,154,25.7,1,
+2,Robert Edwards\robert-edwards-1,4,30,7.5,0,
+3,Greg Bright\greg-bright-1,2,51,25.5,1,
+4,Corey Johnson\corey-johnson-4,2,30,15.0,0,
+5,Will Muschamp\will-muschamp-1,2,43,21.5,0,
+=======================================================================================
+1993
+Rk,Player,Int,Yds,Avg,TD,PD
+1,Charlie Clemons\charlie-clemons-1,3,14,4.7,0,
+2,Buster Owens\buster-owens-1,3,23,7.7,0,
+3,Greg Tremble\greg-tremble-1,3,20,6.7,1,
+4,Charles Pledger\charles-pledger-1,2,15,7.5,0,
+5,Ralph Thompson\ralph-thompson-2,2,26,13.0,0,
+6,Mitch Davis\mitch-davis-1,1,13,13.0,0,
+7,Randall Godfrey\randall-godfrey-1,1,46,46.0,1,
+8,Will Muschamp\will-muschamp-1,1,0,0.0,0,
+9,Carlos Yancy\carlos-yancy-1,1,0,0.0,0,
+=======================================================================================
+1992
+Rk,Player,Int,Yds,Avg,TD,PD
+1,Greg Tremble\greg-tremble-1,3,19,6.3,0,
+2,Al Jackson\al-jackson-2,2,0,0.0,0,
+3,Charles Pledger\charles-pledger-1,2,2,1.0,0,
+4,Carlo Butler\carlo-butler-1,1,6,6.0,0,
+5,Randall Godfrey\randall-godfrey-1,1,7,7.0,0,
+6,Mike Jones\mike-jones-23,1,69,69.0,1,
+7,Buster Owens\buster-owens-1,1,5,5.0,0,
+8,Jock Stephens\jock-stephens-1,1,0,0.0,0,
+=======================================================================================
+1991
+Rk,Player,Int,Yds,Avg,TD,PD
+1,Chuck Carswell\chuck-carswell-1,3,14,4.7,0,
+2,David Hargett\david-hargett-1,3,0,0.0,0,
+3,Dwayne Simmons\dwayne-simmons-1,2,0,0.0,0,
+4,George Wynn\george-wynn-1,2,26,13.0,0,
+5,John Allen\john-allen-9,1,25,25.0,0,
+=======================================================================================
+1990
+Rk,Player,Int,Yds,Avg,TD,PD
+1,George Wynn\george-wynn-1,3,30,10.0,0,
+2,Chuck Carswell\chuck-carswell-1,1,8,8.0,0,
+3,Mo Lewis\mo-lewis-1,1,-2,-2.0,0,
+4,DeWayne Simmons\dewayne-simmons-1,1,0,0.0,0,
+5,Ralph Thompson\ralph-thompson-2,1,0,0.0,0,
+=======================================================================================
+1989
+Rk,Player,Int,Yds,Avg,TD,PD
+1,Ben Smith\ben-smith-3,10,54,5.4,0,
+2,Matt McCormick\matt-mccormick-1,2,5,2.5,0,
+3,George Wynn\george-wynn-1,2,32,16.0,0,
+4,Curt Douglas\curt-douglas-1,1,0,0.0,0,
+5,Demetrius Douglas\demetrius-douglas-1,1,5,5.0,0,
+6,Bill Goldberg\bill-goldberg-1,1,-2,-2.0,0,
+7,Mo Lewis\mo-lewis-1,1,33,33.0,0,
+8,Mike Steele\mike-steele-2,1,4,4.0,0,
+9,Chris Wilson\chris-wilson-2,1,0,0.0,0,
+=======================================================================================
+1988
+Rk,Player,Int,Yds,Avg,TD,PD
+1,Rusty Beasley\rusty-beasley-1,3,36,12.0,0,
+2,Demetrius Douglas\demetrius-douglas-1,3,20,6.7,0,
+3,Mo Lewis\mo-lewis-1,3,32,10.7,0,
+4,Steve Harmon\steve-harmon-1,2,11,5.5,0,
+5,Terrie Lee Webster\terrie-lee-webster-1,2,11,5.5,0,
+6,Chuck Carswell\chuck-carswell-1,1,39,39.0,0,
+7,Vince Guthrie\vince-guthrie-1,1,0,0.0,0,
+8,Wycliffe Lovelace\wycliffe-lovelace-1,1,33,33.0,1,
+9,Ben Smith\ben-smith-3,1,6,6.0,0,
+=======================================================================================
+1987
+Rk,Player,Int,Yds,Avg,TD,PD
+1,Vince Guthrie\vince-guthrie-1,3,64,21.3,0,
+2,Mark Vincent\mark-vincent-2,3,5,1.7,0,
+3,Rusty Beasley\rusty-beasley-1,2,22,11.0,0,
+4,Will Jones\will-jones-1,2,6,3.0,0,
+5,Ben Smith\ben-smith-3,2,0,0.0,0,
+6,John Brantley\john-brantley-3,1,0,0.0,0,
+7,Demetrius Douglas\demetrius-douglas-1,1,6,6.0,0,
+8,Bill Goldberg\bill-goldberg-1,1,13,13.0,0,
+9,Terrie Lee Webster\terrie-lee-webster-1,1,0,0.0,0,
+=======================================================================================
+1986
+Rk,Player,Int,Yds,Avg,TD,PD
+1,Gary Moss\gary-moss-1,5,42,8.4,0,
+2,John Little\john-little-2,3,69,23.0,1,
+3,Miles Smith\miles-smith-1,3,5,1.7,0,
+4,Steve Boswell\steve-boswell-1,2,11,5.5,0,
+5,John Brantley\john-brantley-3,2,12,6.0,0,
+6,Andy Dotson\andy-dotson-1,2,5,2.5,0,
+7,Will Jones\will-jones-1,2,29,14.5,0,
+8,Steve Harmon\steve-harmon-1,1,11,11.0,0,
+9,Samuel\samuel-1,1,0,0.0,0,
+10,Greg A. Williams\greg-a-williams-1,1,0,0.0,0,
+=======================================================================================
+1985
+Rk,Player,Int,Yds,Avg,TD,PD
+1,Gary Moss\gary-moss-1,4,67,16.8,0,
+2,John Little\john-little-2,3,8,2.7,0,
+3,Michael Willis\michael-willis-3,2,16,8.0,0,
+4,John Brantley\john-brantley-3,1,0,0.0,0,
+5,Tony Flack\tony-flack-1,1,26,26.0,0,
+6,Bill Mitchell\bill-mitchell-2,1,1,1.0,0,
+7,Miles Smith\miles-smith-1,1,4,4.0,0,
+8,Henry Williams\henry-williams-5,1,10,10.0,0,
+=======================================================================================
+1984
+Rk,Player,Int,Yds,Avg,TD,PD
+1,Jeff Sanchez\jeff-sanchez-2,4,68,17.0,0,
+2,Tony Flack\tony-flack-1,3,18,6.0,0,
+3,John Little\john-little-2,3,5,1.7,0,
+4,Steve Boswell\steve-boswell-1,2,10,5.0,0,
+5,Kevin Harris\kevin-harris-2,2,0,0.0,0,
+6,Will Jones\will-jones-1,1,0,0.0,0,
+7,Bill Mitchell\bill-mitchell-2,1,22,22.0,0,
+=======================================================================================
+1983
+Rk,Player,Int,Yds,Avg,TD,PD
+1,Charlie Dean\charlie-dean-2,3,92,30.7,1,
+2,Andre Holmes\andre-holmes-1,3,2,0.7,0,
+3,Daryll Jones\daryll-jones-1,3,-3,-1.0,0,
+4,Tony Flack\tony-flack-1,2,18,9.0,0,
+5,Terry Hoage\terry-hoage-1,2,3,1.5,0,
+6,Tommy Thurson\tommy-thurson-1,2,23,11.5,0,
+7,Knox Culpepper\knox-culpepper-2,1,55,55.0,0,
+8,John Little\john-little-2,1,3,3.0,0,
+9,Gary Moss\gary-moss-1,1,0,0.0,0,
+10,David Painter\david-painter-1,1,20,20.0,0,
+=======================================================================================
+1982
+Rk,Player,Int,Yds,Avg,TD,PD
+1,Terry Hoage\terry-hoage-1,12,51,4.3,0,
+2,Jeff Sanchez\jeff-sanchez-2,9,49,5.4,0,
+3,Ronnie Harris\ronnie-harris-3,4,0,0.0,0,
+4,Tony Flack\tony-flack-1,3,13,4.3,0,
+5,Tim Bobo\tim-bobo-1,1,0,0.0,0,
+6,Dale Carver\dale-carver-1,1,0,0.0,0,
+7,Charlie Dean\charlie-dean-2,1,25,25.0,0,
+8,Will Forts\will-forts-1,1,9,9.0,0,
+9,Freddie Gilbert\freddie-gilbert-1,1,11,11.0,0,
+10,Andre Holmes\andre-holmes-1,1,0,0.0,0,
+11,Nate Taylor\nate-taylor-1,1,0,0.0,0,
+=======================================================================================
+1981
+Rk,Player,Int,Yds,Avg,TD,PD
+1,Ronnie Harris\ronnie-harris-3,4,60,15.0,0,
+2,Tim Bobo\tim-bobo-1,3,29,9.7,0,
+3,Steve Kelly\steve-kelly-4,3,31,10.3,0,
+4,Daryll Jones\daryll-jones-1,2,33,16.5,0,
+5,Dale Williams\dale-williams-3,2,0,0.0,0,
+6,Charlie Dean\charlie-dean-2,1,0,0.0,0,
+7,Nate Taylor\nate-taylor-1,1,3,3.0,0,
+8,Tommy Thurson\tommy-thurson-1,1,4,4.0,0,
+=======================================================================================
+1980
+Rk,Player,Int,Yds,Avg,TD,PD
+1,Jeff Hipp\jeff-hipp-1,8,104,13.0,0,
+2,Scott Woerner\scott-woerner-1,5,129,25.8,0,
+3,Mike Fisher\mike-fisher-5,3,36,12.0,0,
+4,Dale Williams\dale-williams-3,2,41,20.5,0,
+5,Greg Bell\greg-bell-1,1,12,12.0,0,
+6,Freddie Gilbert\freddie-gilbert-1,1,13,13.0,0,
+7,Bob Kelly\bob-kelly-3,1,11,11.0,0,
+8,Robert Miles\robert-miles-1,1,18,18.0,0,
+9,Jimmy Payne\jimmy-payne-2,1,4,4.0,0,
+10,Tommy Thurson\tommy-thurson-1,1,0,0.0,0,

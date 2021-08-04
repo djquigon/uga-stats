@@ -1,0 +1,240 @@
+=======================================================================================
+2020
+Rk,Player,XPM,XPA,XP%,FGM,FGA,FG%,Pts,Punts,Yds,Avg
+1,Jack Podlesny\jack-podlesny-1,30,30,100.0,10,12,83.3,60,,,
+2,Jake Camarda\jake-camarda-1,,,,,,,,29,1386,47.8
+=======================================================================================
+2019
+Rk,Player,XPM,XPA,XP%,FGM,FGA,FG%,Pts,Punts,Yds,Avg
+1,Rodrigo Blankenship\rodrigo-blankenship-1,46,46,100.0,27,33,81.8,127,,,
+2,Jake Camarda\jake-camarda-1,,,,,,,,61,2857,46.8
+=======================================================================================
+2018
+Rk,Player,XPM,XPA,XP%,FGM,FGA,FG%,Pts,Punts,Yds,Avg
+1,Rodrigo Blankenship\rodrigo-blankenship-1,65,65,100.0,19,23,82.6,122,,,
+2,Jake Camarda\jake-camarda-1,,,,,,,,43,1830,42.6
+=======================================================================================
+2017
+Rk,Player,XPM,XPA,XP%,FGM,FGA,FG%,Pts,Punts,Yds,Avg
+1,Rodrigo Blankenship\rodrigo-blankenship-1,63,63,100.0,20,23,87.0,123,,,
+2,David Marvin\david-marvin-1,1,1,100.0,1,1,100.0,4,,,
+3,Cameron Nizialek\cameron-nizialek-1,,,,,,,,61,2744,45.0
+4,Brice Ramsey\brice-ramsey-1,,,,,,,,1,19,19.0
+=======================================================================================
+2016
+Rk,Player,XPM,XPA,XP%,FGM,FGA,FG%,Pts,Punts,Yds,Avg
+1,Rodrigo Blankenship\rodrigo-blankenship-1,26,26,100.0,14,18,77.8,68,,,
+2,William Ham\william-ham-1,10,10,100.0,3,7,42.9,19,,,
+3,Marshall Long\marshall-long-1,,,,,,,,49,1897,38.7
+4,Brice Ramsey\brice-ramsey-1,,,,,,,,20,693,34.7
+=======================================================================================
+2015
+Rk,Player,XPM,XPA,XP%,FGM,FGA,FG%,Pts,Punts,Yds,Avg
+1,Marshall Morgan\marshall-morgan-1,38,38,100.0,18,25,72.0,92,,,
+2,Patrick Beless\patrick-beless-1,2,2,100.0,0,1,0.0,2,,,
+3,Collin Barber\collin-barber-2,0,0,,0,1,0.0,0,41,1637,39.9
+4,Brice Ramsey\brice-ramsey-1,,,,,,,,25,1048,41.9
+=======================================================================================
+2014
+Rk,Player,XPM,XPA,XP%,FGM,FGA,FG%,Pts,Punts,Yds,Avg
+1,Marshall Morgan\marshall-morgan-1,67,68,98.5,16,21,76.2,115,,,
+2,Collin Barber\collin-barber-2,,,,,,,,34,1336,39.3
+3,Adam Erickson\adam-erickson-1,,,,,,,,9,294,32.7
+=======================================================================================
+2013
+Rk,Player,XPM,XPA,XP%,FGM,FGA,FG%,Pts,Punts,Yds,Avg
+1,Marshall Morgan\marshall-morgan-1,47,47,100.0,22,24,91.7,113,,,
+2,Patrick Beless\patrick-beless-1,10,10,100.0,2,2,100.0,16,,,
+3,Collin Barber\collin-barber-2,,,,,,,,29,1279,44.1
+4,Adam Erickson\adam-erickson-1,,,,,,,,13,527,40.5
+=======================================================================================
+2012
+Rk,Player,XPM,XPA,XP%,FGM,FGA,FG%,Pts,Punts,Yds,Avg
+1,Marshall Morgan\marshall-morgan-1,63,67,94.0,8,14,57.1,87,,,
+2,Collin Barber\collin-barber-2,,,,,,,,60,2488,41.5
+3,Adam Erickson\adam-erickson-1,,,,,,,,8,296,37.0
+=======================================================================================
+2011
+Rk,Player,XPM,XPA,XP%,FGM,FGA,FG%,Pts,Punts,Yds,Avg
+1,Blair Walsh\blair-walsh-1,46,46,100.0,21,35,60.0,109,,,
+2,Brandon Bogotay\brandon-bogotay-1,6,6,100.0,1,2,50.0,9,,,
+3,Drew Butler\drew-butler-1,,,,,,,,58,2566,44.2
+=======================================================================================
+2010
+Rk,Player,XPM,XPA,XP%,FGM,FGA,FG%,Pts,Punts,Yds,Avg
+1,Blair Walsh\blair-walsh-1,46,47,97.9,20,23,87.0,106,,,
+2,Brandon Bogotay\brandon-bogotay-1,1,1,100.0,0,1,0.0,1,,,
+3,Drew Butler\drew-butler-1,,,,,,,,50,2225,44.5
+=======================================================================================
+2009
+Rk,Player,XPM,XPA,XP%,FGM,FGA,FG%,Pts,Punts,Yds,Avg
+1,Blair Walsh\blair-walsh-1,42,42,100.0,20,22,90.9,102,,,
+2,Andrew Jensen\andrew-jensen-1,0,1,0.0,,,,,,,
+3,Drew Butler\drew-butler-1,,,,,,,,56,2691,48.1
+=======================================================================================
+2008
+Rk,Player,XPM,XPA,XP%,FGM,FGA,FG%,Pts,Punts,Yds,Avg
+1,Blair Walsh\blair-walsh-1,50,50,100.0,15,23,65.2,95,,,
+2,Brian Mimbs\brian-mimbs-1,,,,,,,,47,2068,44.0
+3,Drew Butler\drew-butler-1,,,,,,,,3,107,35.7
+=======================================================================================
+2007
+Rk,Player,XPM,XPA,XP%,FGM,FGA,FG%,Pts,Punts,Yds,Avg
+1,Brandon Coutu\brandon-coutu-1,49,49,100.0,18,23,78.3,103,,,
+2,Andy Bailey\andy-bailey-1,1,2,50.0,,,,,,,
+3,Brian Mimbs\brian-mimbs-1,,,,,,,,57,2414,42.4
+=======================================================================================
+2006
+Rk,Player,XPM,XPA,XP%,FGM,FGA,FG%,Pts,Punts,Yds,Avg
+1,Brandon Coutu\brandon-coutu-1,17,17,100.0,10,11,90.9,47,,,
+2,Andy Bailey\andy-bailey-1,12,14,85.7,5,8,62.5,27,,,
+3,Gordon Ely-Kelso\gordon-ely-kelso-1,4,5,80.0,1,2,50.0,7,51,2007,39.4
+=======================================================================================
+2005
+Rk,Player,XPM,XPA,XP%,FGM,FGA,FG%,Pts,Punts,Yds,Avg
+1,Brandon Coutu\brandon-coutu-1,45,45,100.0,23,29,79.3,114,,,
+2,Lee Jackson\lee-jackson-1,,,,0,1,0.0,,,,
+3,Gordon Ely-Kelso\gordon-ely-kelso-1,,,,,,,,57,2443,42.9
+=======================================================================================
+2004
+Rk,Player,XPM,XPA,XP%,FGM,FGA,FG%,Pts,Punts,Yds,Avg
+1,Andy Bailey\andy-bailey-1,36,37,97.3,14,20,70.0,78,,,
+2,Brandon Coutu\brandon-coutu-1,3,3,100.0,2,3,66.7,9,,,
+3,Gordon Ely-Kelso\gordon-ely-kelso-1,,,,,,,,53,2119,40.0
+4,Lee Jackson\lee-jackson-1,,,,,,,,3,106,35.3
+=======================================================================================
+2003
+Rk,Player,XPM,XPA,XP%,FGM,FGA,FG%,Pts,Punts,Yds,Avg
+1,Billy Bennett\billy-bennett-1,38,39,97.4,31,38,81.6,131,,,
+2,Gordon Ely-Kelso\gordon-ely-kelso-1,,,,,,,,66,2571,39.0
+=======================================================================================
+2002
+Rk,Player,XPM,XPA,XP%,FGM,FGA,FG%,Pts,Punts,Yds,Avg
+1,Billy Bennett\billy-bennett-1,52,52,100.0,26,33,78.8,130,,,
+2,Jonathan Kilgo\jonathan-kilgo-1,,,,,,,,64,2708,42.3
+=======================================================================================
+2001
+Rk,Player,XPM,XPA,XP%,FGM,FGA,FG%,Pts,Punts,Yds,Avg
+1,Billy Bennett\billy-bennett-1,34,34,100.0,17,25,68.0,85,,,
+2,David Classen\david-classen-1,,,,,,,,2,93,46.5
+3,Jonathan Kilgo\jonathan-kilgo-1,,,,,,,,42,1838,43.8
+4,David Claassen\david-claassen-1,,,,,,,,2,93,46.5
+=======================================================================================
+2000
+Rk,Player,XPM,XPA,XP%,FGM,FGA,FG%,Pts,Punts,Yds,Avg
+1,Billy Bennett\billy-bennett-1,24,26,92.3,13,14,92.9,63,,,
+2,Brett Kirouac\brett-kirouac-1,6,8,75.0,1,1,100.0,9,,,
+3,Jonathan Kilgo\jonathan-kilgo-1,,,,,,,,58,2450,42.2
+=======================================================================================
+1999
+Rk,Player,XPM,XPA,XP%,FGM,FGA,FG%,Pts,Punts,Yds,Avg
+1,Hap Hines\hap-hines-1,36,36,100.0,14,19,73.7,78,,,
+2,Wynn Kopp\wynn-kopp-2,,,,,,,,37,1421,38.4
+3,Jonathan Kilgo\jonathan-kilgo-1,,,,,,,,17,688,40.5
+4,David Claassen\david-claassen-1,,,,,,,,1,37,37.0
+=======================================================================================
+1998
+Rk,Player,XPM,XPA,XP%,FGM,FGA,FG%,Pts,Punts,Yds,Avg
+1,Hap Hines\hap-hines-1,30,31,96.8,7,10,70.0,51,,,
+2,Wynn Kopp\wynn-kopp-2,,,,,,,,46,1638,35.6
+3,Jon England\jon-england-1,,,,,,,,4,122,30.5
+=======================================================================================
+1997
+Rk,Player,XPM,XPA,XP%,FGM,FGA,FG%,Pts,Punts,Yds,Avg
+1,Hap Hines\hap-hines-1,30,33,90.9,7,12,58.3,51,,,
+2,Dax Langley\dax-langley-1,9,10,90.0,1,3,33.3,12,39,1513,38.8
+=======================================================================================
+1996
+Rk,Player,XPM,XPA,XP%,FGM,FGA,FG%,Pts,Punts,Yds,Avg
+1,Hap Hines\hap-hines-1,21,22,95.5,7,9,77.8,42,,,
+2,Dax Langley\dax-langley-1,6,6,100.0,2,4,50.0,12,54,2141,39.6
+=======================================================================================
+1995
+Rk,Player,XPM,XPA,XP%,FGM,FGA,FG%,Pts,Punts,Yds,Avg
+1,Kanon Parkman\kanon-parkman-1,23,24,95.8,13,19,68.4,62,,,
+2,Dax Langley\dax-langley-1,2,2,100.0,1,2,50.0,5,45,1778,39.5
+=======================================================================================
+1994
+Rk,Player,XPM,XPA,XP%,FGM,FGA,FG%,Pts,Punts,Yds,Avg
+1,Kanon Parkman\kanon-parkman-1,40,41,97.6,17,22,77.3,91,,,
+2,Dax Langley\dax-langley-1,,,,,,,,40,1561,39.0
+3,Brett Pellock\brett-pellock-1,,,,,,,,8,234,29.3
+=======================================================================================
+1993
+Rk,Player,XPM,XPA,XP%,FGM,FGA,FG%,Pts,Punts,Yds,Avg
+1,Kanon Parkman\kanon-parkman-1,35,36,97.2,19,27,70.4,92,,,
+2,Scot Armstrong\scot-armstrong-1,,,,,,,,37,1419,38.4
+3,Brett Pellock\brett-pellock-1,,,,,,,,11,383,34.8
+=======================================================================================
+1992
+Rk,Player,XPM,XPA,XP%,FGM,FGA,FG%,Pts,Punts,Yds,Avg
+1,Todd Peterson\todd-peterson-4,41,42,97.6,13,16,81.3,80,,,
+2,Andrew Chadwick\andrew-chadwick-1,2,2,100.0,2,3,66.7,8,,,
+3,Scot Armstrong\scot-armstrong-1,,,,,,,,49,1897,38.7
+=======================================================================================
+1991
+Rk,Player,XPM,XPA,XP%,FGM,FGA,FG%,Pts,Punts,Yds,Avg
+1,Todd Peterson\todd-peterson-4,34,35,97.1,12,17,70.6,70,,,
+2,Kanon Parkman\kanon-parkman-1,1,1,100.0,3,8,37.5,10,,,
+3,Scot Armstrong\scot-armstrong-1,,,,,,,,40,1676,41.9
+4,Stuart Saussy\stuart-saussy-1,,,,,,,,22,808,36.7
+=======================================================================================
+1990
+Rk,Player,XPM,XPA,XP%,FGM,FGA,FG%,Pts,Punts,Yds,Avg
+1,John Kasay\john-kasay-1,10,11,90.9,19,24,79.2,67,,,
+2,Scot Armstrong\scot-armstrong-1,,,,,,,,62,2381,38.4
+=======================================================================================
+1989
+Rk,Player,XPM,XPA,XP%,FGM,FGA,FG%,Pts,Punts,Yds,Avg
+1,John Kasay\john-kasay-1,22,23,95.7,19,24,79.2,79,,,
+2,Joey Hester\joey-hester-1,,,,,,,,65,2559,39.4
+=======================================================================================
+1988
+Rk,Player,XPM,XPA,XP%,FGM,FGA,FG%,Pts,Punts,Yds,Avg
+1,John Kasay\john-kasay-1,39,40,97.5,7,15,46.7,60,,,
+2,Steve Crumley\steve-crumley-1,,,,6,9,66.7,,,,
+3,Joey Hester\joey-hester-1,,,,,,,,49,1922,39.2
+=======================================================================================
+1987
+Rk,Player,XPM,XPA,XP%,FGM,FGA,FG%,Pts,Punts,Yds,Avg
+1,Steve Crumley\steve-crumley-1,18,20,90.0,14,17,82.4,60,,,
+2,John Kasay\john-kasay-1,8,8,100.0,1,2,50.0,11,,,
+3,Joey Hester\joey-hester-1,,,,,,,,31,1141,36.8
+4,David Dukes\david-dukes-1,,,,,,,,10,337,33.7
+=======================================================================================
+1986
+Rk,Player,XPM,XPA,XP%,FGM,FGA,FG%,Pts,Punts,Yds,Avg
+1,Steve Crumley\steve-crumley-1,33,33,100.0,14,22,63.6,75,,,
+2,Cris Carpenter\cris-carpenter-1,,,,,,,,41,1808,44.1
+=======================================================================================
+1985
+Rk,Player,XPM,XPA,XP%,FGM,FGA,FG%,Pts,Punts,Yds,Avg
+1,Steve Crumley\steve-crumley-1,29,31,93.5,12,18,66.7,65,,,
+2,David Jacobs\david-jacobs-1,1,1,100.0,2,4,50.0,7,,,
+3,Cris Carpenter\cris-carpenter-1,,,,,,,,53,2212,41.7
+=======================================================================================
+1984
+Rk,Player,XPM,XPA,XP%,FGM,FGA,FG%,Pts,Punts,Yds,Avg
+1,Kevin Butler\kevin-butler-1,23,23,100.0,23,28,82.1,92,,,
+2,Chip Andrews\chip-andrews-1,,,,,,,,63,2858,45.4
+=======================================================================================
+1983
+Rk,Player,XPM,XPA,XP%,FGM,FGA,FG%,Pts,Punts,Yds,Avg
+1,Kevin Butler\kevin-butler-1,28,28,100.0,18,23,78.3,82,,,
+2,Chip Andrews\chip-andrews-1,,,,,,,,46,1848,40.2
+=======================================================================================
+1982
+Rk,Player,XPM,XPA,XP%,FGM,FGA,FG%,Pts,Punts,Yds,Avg
+1,Kevin Butler\kevin-butler-1,34,36,94.4,17,21,81.0,85,,,
+2,Jim Broadway\jim-broadway-2,,,,,,,,57,2305,40.4
+=======================================================================================
+1981
+Rk,Player,XPM,XPA,XP%,FGM,FGA,FG%,Pts,Punts,Yds,Avg
+1,Kevin Butler\kevin-butler-1,37,38,97.4,19,26,73.1,94,,,
+2,Jim Broadway\jim-broadway-2,,,,,,,,44,1810,41.1
+=======================================================================================
+1980
+Rk,Player,XPM,XPA,XP%,FGM,FGA,FG%,Pts,Punts,Yds,Avg
+1,Rex Robinson\rex-robinson-1,36,36,100.0,16,22,72.7,84,,,
+2,Jim Broadway\jim-broadway-2,,,,,,,,31,1147,37.0
+3,Mark Malkiewicz\mark-malkiewicz-1,,,,,,,,26,979,37.7

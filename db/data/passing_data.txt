@@ -1,0 +1,270 @@
+=======================================================================================
+2020
+Rk,Player,Cmp,Att,Pct,Yds,Y/A,AY/A,TD,Int,Rate
+1,Stetson Bennett\stetson-bennett-1,85,153,55.6,1167,7.6,6.9,8,6,129.0
+2,JT Daniels\jt-daniels-1,38,54,70.4,540,10.0,11.4,6,1,187.3
+3,D'Wan Mathis\dwan-mathis-1,12,30,40.0,89,3.0,-0.9,1,3,55.9
+=======================================================================================
+2019
+Rk,Player,Cmp,Att,Pct,Yds,Y/A,AY/A,TD,Int,Rate
+1,Jake Fromm\jake-fromm-1,234,385,60.8,2860,7.4,8.1,24,5,141.2
+2,Stetson Bennett\stetson-bennett-1,20,27,74.1,260,9.6,9.4,2,1,172.0
+3,Nathan Priestley\nathan-priestley-1,1,2,50.0,2,1.0,1.0,0,0,58.4
+=======================================================================================
+2018
+Rk,Player,Cmp,Att,Pct,Yds,Y/A,AY/A,TD,Int,Rate
+1,Jake Fromm\jake-fromm-1,206,306,67.3,2749,9.0,10.1,30,6,171.2
+2,Justin Fields\justin-fields-2,27,39,69.2,328,8.4,10.5,4,0,173.7
+3,Matthew Downing\matthew-downing-1,8,10,80.0,88,8.8,8.8,0,0,153.9
+4,Rodrigo Blankenship\rodrigo-blankenship-1,0,1,0.0,0,0.0,0.0,0,0,0.0
+=======================================================================================
+2017
+Rk,Player,Cmp,Att,Pct,Yds,Y/A,AY/A,TD,Int,Rate
+1,Jake Fromm\jake-fromm-1,181,291,62.2,2615,9.0,9.6,24,7,160.1
+2,Jacob Eason\jacob-eason-1,4,7,57.1,28,4.0,4.0,0,0,90.7
+3,Brice Ramsey\brice-ramsey-1,1,4,25.0,10,2.5,-20.0,0,2,-54.0
+4,D'Andre Swift\dandre-swift-1,0,1,0.0,0,0.0,0.0,0,0,0.0
+=======================================================================================
+2016
+Rk,Player,Cmp,Att,Pct,Yds,Y/A,AY/A,TD,Int,Rate
+1,Jacob Eason\jacob-eason-1,204,370,55.1,2430,6.6,6.5,16,8,120.2
+2,Greyson Lambert\greyson-lambert-1,7,12,58.3,56,4.7,4.7,0,0,97.5
+3,Terry Godwin\terry-godwin-1,0,2,0.0,0,0.0,-22.5,0,1,-100.0
+4,Marshall Long\marshall-long-1,1,1,100.0,29,29.0,29.0,0,0,343.6
+=======================================================================================
+2015
+Rk,Player,Cmp,Att,Pct,Yds,Y/A,AY/A,TD,Int,Rate
+1,Greyson Lambert\greyson-lambert-1,162,256,63.3,1959,7.7,8.2,12,2,141.5
+2,Brice Ramsey\brice-ramsey-1,21,35,60.0,249,7.1,5.1,1,2,117.8
+3,Faton Bauta\faton-bauta-1,15,33,45.5,154,4.7,-0.8,0,4,60.4
+4,Terry Godwin\terry-godwin-1,1,1,100.0,44,44.0,64.0,1,0,799.6
+=======================================================================================
+2014
+Rk,Player,Cmp,Att,Pct,Yds,Y/A,AY/A,TD,Int,Rate
+1,Hutson Mason\hutson-mason-1,188,277,67.9,2168,7.8,8.7,21,4,155.7
+2,Brice Ramsey\brice-ramsey-1,24,39,61.5,333,8.5,7.8,3,2,148.4
+3,Faton Bauta\faton-bauta-1,4,5,80.0,48,9.6,9.6,0,0,160.6
+4,Todd Gurley\todd-gurley-1,1,1,100.0,50,50.0,50.0,0,0,520.0
+=======================================================================================
+2013
+Rk,Player,Cmp,Att,Pct,Yds,Y/A,AY/A,TD,Int,Rate
+1,Aaron Murray\aaron-murray-1,225,347,64.8,3075,8.9,9.2,26,9,158.8
+2,Hutson Mason\hutson-mason-1,67,110,60.9,968,8.8,8.5,5,3,144.4
+3,Rantavious Wooten\rantavious-wooten-1,1,1,100.0,42,42.0,42.0,0,0,452.8
+=======================================================================================
+2012
+Rk,Player,Cmp,Att,Pct,Yds,Y/A,AY/A,TD,Int,Rate
+1,Aaron Murray\aaron-murray-1,249,386,64.5,3893,10.1,10.8,36,10,174.8
+2,Parker Welch\parker-welch-1,3,7,42.9,39,5.6,8.4,1,0,136.8
+3,Christian Lemay\christian-lemay-1,1,2,50.0,43,21.5,-1.0,0,1,130.6
+4,Arthur Lynch\arthur-lynch-1,1,1,100.0,16,16.0,16.0,0,0,234.4
+5,Rantavious Wooten\rantavious-wooten-1,0,1,0.0,0,0.0,0.0,0,0,0.0
+=======================================================================================
+2011
+Rk,Player,Cmp,Att,Pct,Yds,Y/A,AY/A,TD,Int,Rate
+1,Aaron Murray\aaron-murray-1,238,403,59.1,3149,7.8,8.0,35,14,146.4
+2,Hutson Mason\hutson-mason-1,18,30,60.0,254,8.5,9.8,2,0,153.1
+3,Parker Welch\parker-welch-1,1,1,100.0,20,20.0,20.0,0,0,268.0
+4,Welch\welch-1,1,1,100.0,20,20.0,20.0,0,0,268.0
+=======================================================================================
+2010
+Rk,Player,Cmp,Att,Pct,Yds,Y/A,AY/A,TD,Int,Rate
+1,Aaron Murray\aaron-murray-1,209,342,61.1,3049,8.9,9.3,24,8,154.5
+2,Hutson Mason\hutson-mason-1,9,17,52.9,102,6.0,7.2,1,0,122.8
+=======================================================================================
+2009
+Rk,Player,Cmp,Att,Pct,Yds,Y/A,AY/A,TD,Int,Rate
+1,Joe Cox\joe-cox-1,185,331,55.9,2584,7.8,7.2,24,15,136.3
+2,Logan Gray\logan-gray-1,5,12,41.7,31,2.6,-4.9,0,2,30.0
+=======================================================================================
+2008
+Rk,Player,Cmp,Att,Pct,Yds,Y/A,AY/A,TD,Int,Rate
+1,Matthew Stafford\matthew-stafford-1,235,383,61.4,3459,9.0,9.2,25,10,153.5
+2,Joe Cox\joe-cox-1,11,15,73.3,151,10.1,12.7,2,0,201.9
+3,Mohamed Massaquoi\mohamed-massaquoi-1,0,2,0.0,0,0.0,0.0,0,0,0.0
+=======================================================================================
+2007
+Rk,Player,Cmp,Att,Pct,Yds,Y/A,AY/A,TD,Int,Rate
+1,Matthew Stafford\matthew-stafford-1,194,348,55.7,2523,7.3,7.0,19,10,128.9
+2,Joe Cox\joe-cox-1,5,15,33.3,56,3.7,5.1,1,0,86.7
+3,A.J. Bryant\aj-bryant-1,0,1,0.0,0,0.0,0.0,0,0,0.0
+=======================================================================================
+2006
+Rk,Player,Cmp,Att,Pct,Yds,Y/A,AY/A,TD,Int,Rate
+1,Matthew Stafford\matthew-stafford-1,135,256,52.7,1749,6.8,5.1,7,13,109.0
+2,Joe Tereshinski\joe-tereshinski-1,32,57,56.1,423,7.4,6.9,3,2,128.8
+3,Joe Cox\joe-cox-1,17,28,60.7,225,8.0,7.9,2,1,144.6
+=======================================================================================
+2005
+Rk,Player,Cmp,Att,Pct,Yds,Y/A,AY/A,TD,Int,Rate
+1,D.J. Shockley\dj-shockley-1,173,310,55.8,2588,8.3,9.2,24,5,148.3
+2,Joe Tereshinski\joe-tereshinski-1,25,49,51.0,371,7.6,6.1,1,2,113.2
+3,Blake Barnes\blake-barnes-1,2,3,66.7,9,3.0,3.0,0,0,91.9
+4,Thomas Brown\thomas-brown-1,1,1,100.0,9,9.0,29.0,1,0,505.6
+=======================================================================================
+2004
+Rk,Player,Cmp,Att,Pct,Yds,Y/A,AY/A,TD,Int,Rate
+1,David Greene\david-greene-1,175,299,58.5,2508,8.4,9.1,20,4,148.4
+2,D.J. Shockley\dj-shockley-1,26,60,43.3,464,7.7,8.3,4,1,127.0
+3,Reggie Brown\reggie-brown-2,0,1,0.0,0,0.0,0.0,0,0,0.0
+4,Tommy Wilson\tommy-wilson-1,0,1,0.0,0,0.0,0.0,0,0,0.0
+=======================================================================================
+2003
+Rk,Player,Cmp,Att,Pct,Yds,Y/A,AY/A,TD,Int,Rate
+1,David Greene\david-greene-1,264,438,60.3,3307,7.6,7.0,13,11,128.5
+2,D.J. Shockley\dj-shockley-1,9,21,42.9,88,4.2,3.0,1,1,84.2
+3,Michael Johnson\michael-johnson-3,1,1,100.0,40,40.0,40.0,0,0,436.0
+=======================================================================================
+2002
+Rk,Player,Cmp,Att,Pct,Yds,Y/A,AY/A,TD,Int,Rate
+1,David Greene\david-greene-1,218,379,57.5,2924,7.7,7.9,22,8,137.3
+2,D.J. Shockley\dj-shockley-1,32,52,61.5,415,8.0,8.2,5,2,152.6
+3,Cory Phillips\cory-phillips-1,6,11,54.5,92,8.4,10.2,1,0,154.8
+4,Terrence Edwards\terrence-edwards-1,1,1,100.0,4,4.0,4.0,0,0,133.6
+=======================================================================================
+2001
+Rk,Player,Cmp,Att,Pct,Yds,Y/A,AY/A,TD,Int,Rate
+1,David Greene\david-greene-1,192,324,59.3,2789,8.6,8.4,17,9,143.3
+2,Cory Phillips\cory-phillips-1,9,20,45.0,140,7.0,6.8,2,1,126.8
+3,Brent Rickman\brent-rickman-1,1,3,33.3,7,2.3,2.3,0,0,52.9
+4,Rickman\rickman-1,1,3,33.3,7,2.3,2.3,0,0,52.9
+5,Terrence Edwards\terrence-edwards-1,2,2,100.0,38,19.0,19.0,0,0,259.6
+6,Kenny Bailey\kenny-bailey-1,0,1,0.0,0,0.0,-45.0,0,1,-200.0
+=======================================================================================
+2000
+Rk,Player,Cmp,Att,Pct,Yds,Y/A,AY/A,TD,Int,Rate
+1,Quincy Carter\quincy-carter-1,91,183,49.7,1250,6.8,5.0,6,10,107.0
+2,Cory Phillips\cory-phillips-1,89,158,56.3,1093,6.9,6.2,8,6,123.6
+3,Terrence Edwards\terrence-edwards-1,1,3,33.3,22,7.3,7.3,0,0,94.9
+=======================================================================================
+1999
+Rk,Player,Cmp,Att,Pct,Yds,Y/A,AY/A,TD,Int,Rate
+1,Quincy Carter\quincy-carter-1,216,380,56.8,2713,7.1,7.3,17,6,128.4
+2,Labrone Mitchell\labrone-mitchell-1,3,7,42.9,30,4.3,4.3,0,0,78.9
+3,Patrick Pass\patrick-pass-1,1,2,50.0,31,15.5,-7.0,0,1,80.2
+4,Cory Phillips\cory-phillips-1,1,1,100.0,53,53.0,73.0,1,0,875.2
+=======================================================================================
+1998
+Rk,Player,Cmp,Att,Pct,Yds,Y/A,AY/A,TD,Int,Rate
+1,Quincy Carter\quincy-carter-1,176,290,60.7,2484,8.6,8.0,12,9,140.1
+2,Jon England\jon-england-1,7,14,50.0,104,7.4,8.9,1,0,136.0
+3,Mike Usry\mike-usry-1,4,6,66.7,34,5.7,5.7,0,0,114.3
+4,Patrick Pass\patrick-pass-1,2,2,100.0,55,27.5,27.5,0,0,331.0
+5,Michael Greer\michael-greer-1,1,1,100.0,68,68.0,88.0,1,0,1001.2
+6,Champ Bailey\champ-bailey-1,0,1,0.0,0,0.0,-45.0,0,1,-200.0
+7,Tony Small\tony-small-1,0,1,0.0,0,0.0,-45.0,0,1,-200.0
+=======================================================================================
+1997
+Rk,Player,Cmp,Att,Pct,Yds,Y/A,AY/A,TD,Int,Rate
+1,Mike Bobo\mike-bobo-2,199,306,65.0,2751,9.0,9.1,19,8,155.8
+2,Mike Usry\mike-usry-1,4,7,57.1,54,7.7,10.6,1,0,169.1
+3,Jon England\jon-england-1,3,5,60.0,37,7.4,7.4,0,0,122.2
+4,Hines Ward\hines-ward-1,2,5,40.0,27,5.4,5.4,0,0,85.4
+5,Andrew Cronic\andrew-cronic-1,1,1,100.0,21,21.0,21.0,0,0,276.4
+=======================================================================================
+1996
+Rk,Player,Cmp,Att,Pct,Yds,Y/A,AY/A,TD,Int,Rate
+1,Mike Bobo\mike-bobo-2,175,344,50.9,2440,7.1,5.8,13,16,113.6
+2,Brian Smith\brian-smith-6,7,11,63.6,39,3.5,3.5,0,0,93.4
+3,Hines Ward\hines-ward-1,1,3,33.3,19,6.3,13.0,1,0,196.5
+4,Dax Langley\dax-langley-1,1,1,100.0,38,38.0,38.0,0,0,419.2
+5,Patrick Pass\patrick-pass-1,0,1,0.0,0,0.0,0.0,0,0,0.0
+=======================================================================================
+1995
+Rk,Player,Cmp,Att,Pct,Yds,Y/A,AY/A,TD,Int,Rate
+1,Hines Ward\hines-ward-1,69,112,61.6,872,7.8,6.9,2,3,127.5
+2,Brian Smith\brian-smith-6,59,109,54.1,687,6.3,5.2,3,4,108.8
+3,Mike Bobo\mike-bobo-2,54,89,60.7,818,9.2,9.3,5,2,151.9
+=======================================================================================
+1994
+Rk,Player,Cmp,Att,Pct,Yds,Y/A,AY/A,TD,Int,Rate
+1,Eric Zeier\eric-zeier-1,259,433,59.8,3396,7.8,7.5,24,14,137.5
+2,Mike Bobo\mike-bobo-2,17,29,58.6,325,11.2,11.9,1,0,164.1
+=======================================================================================
+1993
+Rk,Player,Cmp,Att,Pct,Yds,Y/A,AY/A,TD,Int,Rate
+1,Eric Zeier\eric-zeier-1,269,425,63.3,3525,8.3,8.7,24,7,148.3
+2,Brian Smith\brian-smith-6,3,6,50.0,27,4.5,4.5,0,0,87.8
+3,Jeff Thomas\jeff-thomas-2,0,1,0.0,0,0.0,0.0,0,0,0.0
+=======================================================================================
+1992
+Rk,Player,Cmp,Att,Pct,Yds,Y/A,AY/A,TD,Int,Rate
+1,Eric Zeier\eric-zeier-1,151,258,58.5,2248,8.7,7.6,12,12,137.8
+2,Preston Jones\preston-jones-2,10,15,66.7,122,8.1,9.5,1,0,157.0
+3,Garrison Hearst\garrison-hearst-1,0,1,0.0,0,0.0,0.0,0,0,0.0
+=======================================================================================
+1991
+Rk,Player,Cmp,Att,Pct,Yds,Y/A,AY/A,TD,Int,Rate
+1,Eric Zeier\eric-zeier-1,159,286,55.6,1984,6.9,6.8,7,4,119.1
+2,Greg Talley\greg-talley-1,29,63,46.0,431,6.8,8.1,4,0,124.5
+3,Preston Jones\preston-jones-2,2,4,50.0,13,3.3,8.3,1,0,159.8
+4,Kevin Maxwell\kevin-maxwell-1,0,1,0.0,0,0.0,0.0,0,0,0.0
+5,Larry Ware\larry-ware-1,0,1,0.0,0,0.0,0.0,0,0,0.0
+=======================================================================================
+1990
+Rk,Player,Cmp,Att,Pct,Yds,Y/A,AY/A,TD,Int,Rate
+1,Greg Talley\greg-talley-1,72,123,58.5,871,7.1,5.9,4,5,120.6
+2,Preston Jones\preston-jones-2,33,73,45.2,363,5.0,0.9,1,7,72.3
+3,Joseph Dupree\joseph-dupree-1,10,41,24.4,202,4.9,4.3,1,1,68.9
+=======================================================================================
+1989
+Rk,Player,Cmp,Att,Pct,Yds,Y/A,AY/A,TD,Int,Rate
+1,Greg Talley\greg-talley-1,92,174,52.9,1330,7.6,6.0,6,9,118.1
+2,Preston Jones\preston-jones-2,42,93,45.2,568,6.1,3.8,3,6,94.2
+3,Brian Cleveland\brian-cleveland-1,1,1,100.0,30,30.0,30.0,0,0,352.0
+=======================================================================================
+1988
+Rk,Player,Cmp,Att,Pct,Yds,Y/A,AY/A,TD,Int,Rate
+1,Wayne Johnson\wayne-johnson-3,66,122,54.1,1172,9.6,9.5,4,2,142.3
+2,Greg Talley\greg-talley-1,32,54,59.3,469,8.7,7.7,4,3,145.5
+3,Tim Worley\tim-worley-1,2,3,66.7,36,12.0,25.3,2,0,387.5
+=======================================================================================
+1987
+Rk,Player,Cmp,Att,Pct,Yds,Y/A,AY/A,TD,Int,Rate
+1,James Jackson\james-jackson-3,67,132,50.8,1026,7.8,7.5,7,4,127.5
+2,Wayne Johnson\wayne-johnson-3,17,45,37.8,281,6.2,1.2,0,5,68.0
+3,Rodney Hampton\rodney-hampton-1,0,1,0.0,0,0.0,0.0,0,0,0.0
+=======================================================================================
+1986
+Rk,Player,Cmp,Att,Pct,Yds,Y/A,AY/A,TD,Int,Rate
+1,James Jackson\james-jackson-3,100,181,55.2,1475,8.1,7.7,9,6,133.5
+2,Wayne Johnson\wayne-johnson-3,10,18,55.6,102,5.7,4.3,1,1,110.4
+3,Todd Williams\todd-williams-2,1,1,100.0,9,9.0,9.0,0,0,175.6
+4,Lars Tate\lars-tate-1,0,1,0.0,0,0.0,0.0,0,0,0.0
+=======================================================================================
+1985
+Rk,Player,Cmp,Att,Pct,Yds,Y/A,AY/A,TD,Int,Rate
+1,James Jackson\james-jackson-3,51,112,45.5,759,6.8,4.7,2,6,97.6
+2,Wayne Johnson\wayne-johnson-3,21,52,40.4,222,4.3,2.1,1,3,71.1
+3,David Dukes\david-dukes-1,2,4,50.0,24,6.0,6.0,0,0,100.4
+=======================================================================================
+1984
+Rk,Player,Cmp,Att,Pct,Yds,Y/A,AY/A,TD,Int,Rate
+1,Todd Williams\todd-williams-2,64,130,49.2,620,4.8,1.9,4,10,84.1
+2,David Dukes\david-dukes-1,32,69,46.4,429,6.2,3.2,3,6,95.6
+3,James Jackson\james-jackson-3,5,14,35.7,156,11.1,9.4,1,1,138.6
+=======================================================================================
+1983
+Rk,Player,Cmp,Att,Pct,Yds,Y/A,AY/A,TD,Int,Rate
+1,John Lastinger\john-lastinger-1,68,137,49.6,796,5.8,5.0,6,5,105.6
+2,Todd Williams\todd-williams-2,31,58,53.4,464,8.0,6.0,1,3,116.0
+3,Walt Norley\walt-norley-1,1,1,100.0,9,9.0,9.0,0,0,175.6
+4,Herman Archie\herman-archie-1,0,1,0.0,0,0.0,0.0,0,0,0.0
+=======================================================================================
+1982
+Rk,Player,Cmp,Att,Pct,Yds,Y/A,AY/A,TD,Int,Rate
+1,John Lastinger\john-lastinger-1,62,148,41.9,907,6.1,4.5,8,9,99.0
+2,Todd Williams\todd-williams-2,4,7,57.1,71,10.1,6.6,1,1,160.9
+=======================================================================================
+1981
+Rk,Player,Cmp,Att,Pct,Yds,Y/A,AY/A,TD,Int,Rate
+1,Buck Belue\buck-belue-1,114,188,60.6,1603,8.5,7.6,12,9,143.8
+2,John Lastinger\john-lastinger-1,7,18,38.9,192,10.7,9.3,1,1,135.7
+3,Jeff Paulk\jeff-paulk-1,1,2,50.0,15,7.5,7.5,0,0,113.0
+4,Herschel Walker\herschel-walker-1,0,1,0.0,0,0.0,-45.0,0,1,-200.0
+=======================================================================================
+1980
+Rk,Player,Cmp,Att,Pct,Yds,Y/A,AY/A,TD,Int,Rate
+1,Buck Belue\buck-belue-1,77,156,49.4,1314,8.4,7.2,11,9,131.8
+2,Jeff Paulk\jeff-paulk-1,9,15,60.0,138,9.2,7.5,1,1,145.9
+3,Daryll Jones\daryll-jones-1,0,1,0.0,0,0.0,0.0,0,0,0.0

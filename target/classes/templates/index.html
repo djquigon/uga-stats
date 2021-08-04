@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+    <head>
+        <meta>
+        <title> Home - UGASTATS</title>
+        <script src="https://kit.fontawesome.com/c0f50c764a.js" crossorigin="anonymous"></script>
+        <link rel="stylesheet" type="text/css" href="/webjars/bootstrap/css/bootstrap.min.css" />
+        <style>
+            body {
+                background-color: #dbdddd;    
+            }
+            .nav-item{
+                font-size: 1.5rem;
+                font-weight: bold;
+            }
+            .navbar{
+                box-shadow: 0px 10px 5px grey;
+            }
+            .container{
+                padding: 2%;
+            }
+            #link {
+                color: white;
+            }
+            #link:hover{
+                color: black;
+            }
+        </style>
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg navbar-light bg-light" style="background: linear-gradient(45deg, rgba(228,0,43,1) 0%, rgb(179 13 13) 50%, rgb(164 10 10) 100%);">
+            <a class="navbar-brand" th:href="@{/}"><img th:src="@{images/logo.jpeg}" width="75" height="75" alt=""></a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+              <ul class="navbar-nav mr-auto">
+                <li class="nav-item">
+                  <a id= "link" class="nav-link" th:href="@{/coaches}">Coaches</a>
+                </li>
+                <li class="nav-item">
+                  <a id= "link" class="nav-link" th:href="@{/teams}">Teams</a>
+                </li>
+                <li class="nav-item">
+                    <a id= "link" class="nav-link" th:href="@{/players}">Players</a>
+                </li>
+                <li class="nav-item">
+                    <a id= "link" class="nav-link" th:href="@{/about}">About</a>
+                </li>
+                <li class="nav-item">
+                    <a id= "link" class="nav-link" th:href="@{/registration}">Register</a>
+                </li>
+                <li class="nav-item">
+                    <a id= "link" class="nav-link" th:href="@{/login}">Login</a>
+                </li>
+              </ul>
+            </div>
+        </nav>
+        <div class="container text-center">
+            <h1>Welcome!</h1>
+            <p> If you're looking for UGA football statistics, then you're in the right place. 
+                This is our website containing data on UGA football statistics since 1902 for 
+                teams and 1980 for individual players. Make an account on the Register page and try 
+                heading over to either page labeled "Teams" or "Players" at the top! To learn more
+                about some of the stats and tables we have, head to the about page for some tips.
+            </p>
+            <br><br>
+           <img th:src="@{images/UgaLogo.jpg}" alt="Uga Logo" style="width:1000px;height:778px;">
+           <br>
+        </div>
+    </body>
+</html>
